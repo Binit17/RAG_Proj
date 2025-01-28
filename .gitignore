@@ -1,0 +1,14 @@
+
+.env
+.gitattributes
+boxplot-single.png
+boxplot-three.png
+boxplot-two.png
+Comparison.png
+confusion-matrix2.png
+confusion-matrix3.png
+confusion_matrix1.png
+/data
+histplot-single.png
+histplot-three.png
+histplot-two.png
