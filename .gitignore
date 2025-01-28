@@ -16,3 +16,7 @@ histplot-two.png
 /notebooks/chroma_db
 mcq_notebookLM/confusionMatrix.py
 mcq_notebookLM/createJson.py
+/scripts/__pycache__
+/scripts
+/scripts/__pycache__
+/scripts/__pycache__
