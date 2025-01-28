@@ -40,6 +40,18 @@ For a detailed explanation of the implementation, refer to `presentation.pdf`.
 
 ---
 
+### Scripts used:
+
+### Script Overview
+
+| **Script Name**           | **Summary**                                                                                                                                                                  |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `document_processor.py`   | Provides functions to load PDF files or directories of PDFs, convert them into LangChain Document objects, and split them into smaller chunks for efficient processing.      |
+| `embedding_manager.py`    | Implements utilities to create OpenAI embeddings and set up a Chroma vector store to store and retrieve chunked documents for embedding-based applications.                  |
+| `generate_mcq_dataset.py` | Generates multiple-choice questions (MCQs) from a vector store using varied templates, saves the dataset to a JSON file, and provides metadata and statistics.               |
+| `mcq_processor.py`        | Defines a class to process MCQs by retrieving relevant context, applying reasoning strategies (e.g., chain of thought), and returning answers with reasoning and confidence. |
+| `reasoning_strategies.py` | Implements abstract and specific reasoning strategies (e.g., Chain of Thought) for answering questions based on provided context using a language model.                     |
+
 ## Key Features
 
 - Retrieves context using advanced retrieval strategies.

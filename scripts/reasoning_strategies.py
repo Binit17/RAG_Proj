@@ -73,6 +73,9 @@ Confidence: [Numerical value between 0.0 and 1.0 based on how well the context s
             optionD=options["D"]
         )
 
+
+#! Note: TreeOfThoughtReasoner & StructuredMedicalReasoner are not completed.
+
 class TreeOfThoughtReasoner(BaseReasoner):
     def __init__(self, llm: ChatOpenAI):
         self.llm = llm
@@ -176,68 +179,6 @@ Confidence: 0.5"""
             return f"""Selected Option: B
 Reasoning: Photodynamic therapy (PDT) is a standard treatment for actinic keratosis, suggested by clinical guidelines.
 Confidence: 0.5"""
-# class TreeOfThoughtReasoner(BaseReasoner):
-#     def __init__(self, llm: ChatOpenAI):
-#         self.prompt = PromptTemplate(
-#             template="""You are a medical expert analyzing a multiple choice question using tree-of-thought reasoning.
-# Context information:
-# {context}
-
-# Question: {question}
-
-# Options:
-# A) {optionA}
-# B) {optionB}
-# C) {optionC}
-# D) {optionD}
-
-# Let's explore different reasoning paths:
-
-# Path 1: Symptom-Based Analysis
-# ├── Primary Symptoms
-# │   ├── [Analyze how each option relates to primary symptoms]
-# │   └── [Preliminary conclusion based on symptoms]
-# └── Secondary Symptoms
-#     ├── [Analyze secondary symptom relationships]
-#     └── [Refined conclusion]
-
-# Path 2: Diagnostic Criteria Analysis
-# ├── Key Diagnostic Indicators
-# │   ├── [Compare options against diagnostic criteria]
-# │   └── [Preliminary conclusion based on criteria]
-# └── Clinical Presentation
-#     ├── [Analyze clinical relevance]
-#     └── [Refined conclusion]
-
-# Path 3: Treatment-Response Pattern
-# ├── Treatment Implications
-# │   ├── [Analyze treatment relevance]
-# │   └── [Preliminary conclusion]
-# └── Expected Outcomes
-#     ├── [Compare with known outcomes]
-#     └── [Final conclusion]
-
-# Synthesis of All Paths:
-# [Combine insights from all paths]
-
-# Therefore:
-# Selected Option: [A/B/C/D]
-# Reasoning: [Synthesized explanation from multiple paths]
-# Confidence: [0-1 score based on context relevance]
-# """,
-#             input_variables=["context", "question", "optionA", "optionB", "optionC", "optionD"]
-#         )
-#         self.chain = LLMChain(llm=llm, prompt=self.prompt)
-
-#     def reason(self, context: str, question: str, options: Dict[str, str]) -> str:
-#         return self.chain.run(
-#             context=context,
-#             question=question,
-#             optionA=options["A"],
-#             optionB=options["B"],
-#             optionC=options["C"],
-#             optionD=options["D"]
-#         )
 
 class StructuredMedicalReasoner(BaseReasoner):
     def __init__(self, llm: ChatOpenAI):
