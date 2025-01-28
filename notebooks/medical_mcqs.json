@@ -1,0 +1,1608 @@
+{
+  "mcqs": [
+    {
+      "id": 1,
+      "question": "What is a critical consideration for healthcare providers when recommending the early start of dialysis in patients with chronic kidney disease (CKD)?",
+      "options": {
+        "A": "The availability of transplant options",
+        "B": "The impact on quality of life (QoL)",
+        "C": "The patient's age",
+        "D": "The type of dialysis chosen"
+      },
+      "correct_answer": "B",
+      "explanation": "Healthcare providers should be aware of the impact of early dialysis start on quality of life (QoL) before recommending this strategy to people with CKD, as it can significantly affect their overall well-being.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "treatment"
+    },
+    {
+      "id": 2,
+      "question": "In patients with acute liver failure, which of the following complications is most likely to present with respiratory distress due to pulmonary overload?",
+      "options": {
+        "A": "Hepatopulmonary syndrome",
+        "B": "Acute respiratory distress syndrome",
+        "C": "Cranial hypertension",
+        "D": "Hypoglycemia"
+      },
+      "correct_answer": "A",
+      "explanation": "Hepatopulmonary syndrome is a complication of acute liver failure that can lead to hypoxemia and respiratory distress due to the effects of liver dysfunction on pulmonary vasculature, resulting in pulmonary overload.",
+      "confidence": 0.8,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 3,
+      "question": "In the management of patients with liver cirrhosis, what is a critical consideration regarding the use of steroids in the context of septic shock?",
+      "options": {
+        "A": "They should be increased to improve outcomes.",
+        "B": "They should be withdrawn due to increased mortality risk.",
+        "C": "They have no impact on patient outcomes.",
+        "D": "They are only beneficial in non-septic patients."
+      },
+      "correct_answer": "B",
+      "explanation": "The text indicates that the withdrawal of additive steroids in patients with septic shock is important, as increased mortality has been reported in such cases.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "treatment"
+    },
+    {
+      "id": 4,
+      "question": "What complication is associated with fluid overload at the start of continuous renal replacement therapy according to the study by Chen et al.?",
+      "options": {
+        "A": "Improved clinical condition",
+        "B": "No impact on clinical outcomes",
+        "C": "Poorer clinical condition and outcome",
+        "D": "Enhanced renal function recovery"
+      },
+      "correct_answer": "C",
+      "explanation": "The study by Chen et al. found that fluid overload at the start of continuous renal replacement therapy is associated with a poorer clinical condition and worse outcomes, indicating that managing fluid status is crucial in these patients.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "complications"
+    },
+    {
+      "id": 5,
+      "question": "In the context of clinical deterioration with extrahepatic organ involvement, what is the recommended course of action for patient management?",
+      "options": {
+        "A": "Initiate outpatient treatment",
+        "B": "Transfer to critical care and a tertiary center",
+        "C": "Monitor in a general ward",
+        "D": "Refer to a primary care physician"
+      },
+      "correct_answer": "B",
+      "explanation": "The guidelines indicate that clinical deterioration with extrahepatic organ involvement should result in transfer to critical care and a tertiary center, as this is crucial for appropriate management and intervention.",
+      "confidence": 1.0,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "management"
+    },
+    {
+      "id": 6,
+      "question": "In the management of acute liver failure, which of the following clinical presentations is most commonly associated with the need for urgent intervention?",
+      "options": {
+        "A": "Jaundice and pruritus",
+        "B": "Ascites and peripheral edema",
+        "C": "Encephalopathy and coagulopathy",
+        "D": "Abdominal pain and nausea"
+      },
+      "correct_answer": "C",
+      "explanation": "Encephalopathy and coagulopathy are critical clinical presentations in acute liver failure that indicate severe liver dysfunction and often require urgent medical intervention, including potential liver transplantation.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 7,
+      "question": "What treatment is suggested for patients with acute intermittent porphyria to help replete hepatic hemo-proteins and regulatory heme pools?",
+      "options": {
+        "A": "Intravenous heme-albumin",
+        "B": "High-frequency oscillation therapy",
+        "C": "Low-tidal-volume ventilation",
+        "D": "Chronic nutritional support"
+      },
+      "correct_answer": "A",
+      "explanation": "The study by Bonkovsky et al. (1991) provides evidence that intravenous heme-albumin is effective in repleting hepatic hemo-proteins and regulatory heme pools in patients with acute intermittent porphyria.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "treatment"
+    },
+    {
+      "id": 8,
+      "question": "In the context of managing patients with acute liver failure, which of the following interventions has been shown to potentially worsen cerebral hyperemia, particularly in cases with severe encephalopathy?",
+      "options": {
+        "A": "Administration of noradrenaline",
+        "B": "Use of terlipressin",
+        "C": "Optimization of mean arterial pressure",
+        "D": "Implementation of inotropic support"
+      },
+      "correct_answer": "B",
+      "explanation": "The administration of terlipressin in patients with acute liver failure and severe encephalopathy has been associated with worsening cerebral hyperemia, as indicated by the referenced studies.",
+      "confidence": 0.8,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 9,
+      "question": "In patients with acute liver failure, which of the following interventions has been associated with a worsening of cerebral hyperemia, potentially complicating their clinical condition?",
+      "options": {
+        "A": "Administration of norepinephrine",
+        "B": "Use of terlipressin",
+        "C": "Continuous renal replacement therapy",
+        "D": "Bioimpedance vector analysis"
+      },
+      "correct_answer": "B",
+      "explanation": "The administration of terlipressin in patients with acute liver failure has been shown to worsen cerebral hyperemia, which can complicate their clinical condition and lead to severe encephalopathy, as indicated in the referenced studies.",
+      "confidence": 0.8,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "complications"
+    },
+    {
+      "id": 10,
+      "question": "In patients with chronic kidney disease (CKD), which of the following medications should be used with the greatest caution due to their potential to exacerbate renal impairment?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+        "C": "Antibiotics",
+        "D": "Antihypertensives"
+      },
+      "correct_answer": "B",
+      "explanation": "Nonsteroidal anti-inflammatory drugs (NSAIDs) are known to potentially worsen renal function in patients with chronic kidney disease due to their effects on renal blood flow and glomerular filtration rate. Therefore, their use should be approached with caution in this population, while acetaminophen and other classes of medications generally have a more favorable safety profile in CKD.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "hard",
+      "topic": "treatment"
+    },
+    {
+      "id": 11,
+      "question": "In a clinical setting, which of the following symptoms is most characteristic of a patient suffering from posttraumatic stress disorder (PTSD) as opposed to other anxiety disorders, such as panic disorder or obsessive-compulsive disorder (OCD)?",
+      "options": {
+        "A": "Recurrent, involuntary, and intrusive distressing memories of the traumatic event",
+        "B": "Persistent excessive worry about various aspects of life",
+        "C": "Recurrent obsessions or compulsions that are time-consuming",
+        "D": "Sudden episodes of intense fear or discomfort with physical symptoms"
+      },
+      "correct_answer": "A",
+      "explanation": "PTSD is specifically characterized by the presence of intrusive memories related to a traumatic event, which distinguishes it from other anxiety disorders. Panic disorder is marked by sudden episodes of intense fear, while OCD involves obsessions and compulsions. Generalized anxiety disorder is characterized by excessive worry about multiple life aspects.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "hard",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following complications is most directly associated with the progression of systemic inflammatory response syndrome (SIRS) in patients with acute liver failure?",
+      "options": {
+        "A": "Increased vascular permeability leading to tissue injury",
+        "B": "Enhanced immune response resulting in rapid recovery",
+        "C": "Decreased levels of pro-inflammatory cytokines",
+        "D": "Stabilization of microcirculatory function"
+      },
+      "correct_answer": "A",
+      "explanation": "In patients with acute liver failure, the progression of SIRS is characterized by increased vascular permeability, which contributes to further tissue injury. This process creates a vicious cycle that exacerbates the condition, leading to immune suppression and potential complications such as recurrent infections and sepsis. Options B, C, and D do not accurately reflect the pathophysiological changes associated with SIRS in this context.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "complications"
+    },
+    {
+      "id": 13,
+      "question": "What is the primary focus of the study by Eefsen et al. (2007) regarding terlipressin and noradrenalin in patients with acute liver failure?",
+      "options": {
+        "A": "The effect of terlipressin on liver function",
+        "B": "The comparison of cerebral perfusion and intracranial pressure",
+        "C": "The long-term outcomes of liver transplantation",
+        "D": "The impact of exercise on liver health"
+      },
+      "correct_answer": "B",
+      "explanation": "The study by Eefsen et al. (2007) specifically compares the effects of terlipressin and noradrenalin on cerebral perfusion, intracranial pressure, and cerebral extracellular concentrations of lactate and pyruvate in patients with acute liver failure requiring inotropic support.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following complications is NOT typically associated with acute liver failure (ALF) as mentioned in the provided text?",
+      "options": {
+        "A": "Cranial hypertension",
+        "B": "Acute respiratory distress syndrome",
+        "C": "Hyponatremia",
+        "D": "Chronic kidney disease"
+      },
+      "correct_answer": "D",
+      "explanation": "The text discusses various complications associated with acute liver failure, including cranial hypertension, acute respiratory distress syndrome, and hyponatremia. Chronic kidney disease (CKD) is not listed as a complication of ALF; rather, it is mentioned in the context of young adults transitioning from pediatric to adult care.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "hard",
+      "topic": "complications"
+    },
+    {
+      "id": 15,
+      "question": "In the context of managing patients with impaired phagocytosis and opsonization due to complement system reduction, which treatment approach is most likely to support mitochondrial function and enhance tissue regeneration?",
+      "options": {
+        "A": "Administration of buffered crystalloid solutions",
+        "B": "Use of chloride-liberal intravenous fluid administration",
+        "C": "Supplementation with albumin",
+        "D": "Increased aerobic glycolysis through beta2 stimulation"
+      },
+      "correct_answer": "C",
+      "explanation": "Albumin supplementation has been associated with improved organ function and may help in managing the effects of liver cell death and the release of pro-inflammatory mediators, thereby supporting mitochondrial function and promoting tissue regeneration.",
+      "confidence": 0.85,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "treatment"
+    },
+    {
+      "id": 16,
+      "question": "What is the primary pathophysiological mechanism underlying actinic keratosis (AK)?",
+      "options": {
+        "A": "Viral infection leading to keratinocyte proliferation",
+        "B": "Chronic sun exposure causing DNA damage in keratinocytes",
+        "C": "Autoimmune response targeting skin cells",
+        "D": "Bacterial infection resulting in inflammation"
+      },
+      "correct_answer": "B",
+      "explanation": "Actinic keratosis (AK) is primarily caused by chronic sun exposure, which leads to DNA damage in keratinocytes. This damage can result in abnormal cell growth and the development of precancerous lesions.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "pathophysiology"
+    },
+    {
+      "id": 17,
+      "question": "Which treatment option is commonly used for actinic keratosis according to the guidelines referenced in the document?",
+      "options": {
+        "A": "Dexamethasone",
+        "B": "Photodynamic therapy (PDT)",
+        "C": "Intravenous fluids",
+        "D": "Antibiotics"
+      },
+      "correct_answer": "B",
+      "explanation": "Photodynamic therapy (PDT) is a recognized treatment for actinic keratosis, as indicated in the context of dermatological guidelines and practices.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "treatment"
+    },
+    {
+      "id": 18,
+      "question": "Which dietary approach is suggested to potentially slow the progression of chronic kidney disease (CKD) and reduce the risk of related complications?",
+      "options": {
+        "A": "High-protein diet",
+        "B": "Whole-food, plant-based diet",
+        "C": "Ketogenic diet",
+        "D": "Low-carbohydrate diet"
+      },
+      "correct_answer": "B",
+      "explanation": "A whole-food, plant-based diet is rich in anti-inflammatory nutrients, fiber, and phytochemicals, which may help slow the progression of CKD and reduce cardiometabolic risk factors, thereby delaying the need for dialysis.",
+      "confidence": 0.95,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "prevention"
+    },
+    {
+      "id": 19,
+      "question": "What is one of the key research recommendations aimed at improving outcomes for people living with chronic kidney disease (CKD) as mentioned in the document?",
+      "options": {
+        "A": "Development of new surgical techniques for kidney transplantation",
+        "B": "Evaluation of different therapies to delay progression of CKD in various combinations",
+        "C": "Focus solely on medication management without considering patient demographics",
+        "D": "Elimination of risk prediction equations in clinical settings"
+      },
+      "correct_answer": "B",
+      "explanation": "The document emphasizes the evaluation of different therapies to delay the progression of CKD in various combinations as a crucial area for future research, highlighting the need for comprehensive approaches to treatment.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "treatment"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following complications is associated with parenteral nutrition in patients with liver disease?",
+      "options": {
+        "A": "Hepatic encephalopathy",
+        "B": "Intestinal failure associated liver disease",
+        "C": "Non-alcoholic fatty liver disease",
+        "D": "Alcoholic steatohepatitis"
+      },
+      "correct_answer": "B",
+      "explanation": "Parenteral nutrition can lead to intestinal failure associated liver disease (IFALD), particularly in patients with pre-existing liver conditions. This complication arises due to the lack of enteral feeding, which is essential for maintaining gut health and liver function.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "complications"
+    },
+    {
+      "id": 21,
+      "question": "What biomarker is identified as indicating cell injury rather than bacterial infection in acute liver failure?",
+      "options": {
+        "A": "Procalcitonin",
+        "B": "C-reactive protein",
+        "C": "Creatinine",
+        "D": "Sodium glucose co-transporter-2"
+      },
+      "correct_answer": "A",
+      "explanation": "Procalcitonin is noted for its ability to identify cell injury in acute liver failure, distinguishing it from bacterial infection, as mentioned in the provided medical content.",
+      "confidence": 0.4,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 22,
+      "question": "What is a recommended approach to prevent malnutrition in patients with compensated liver cirrhosis?",
+      "options": {
+        "A": "Regular screening for methicillin-resistant Staphylococcus aureus (MRSA)",
+        "B": "Assessment of phase angle to evaluate nutritional status",
+        "C": "Increased intake of high-sugar foods",
+        "D": "Avoidance of all physical activity"
+      },
+      "correct_answer": "B",
+      "explanation": "Assessing phase angle can help evaluate nutritional status and identify malnutrition in patients with compensated liver cirrhosis, which is crucial for improving their prognosis and preventing further complications.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "prevention"
+    },
+    {
+      "id": 23,
+      "question": "In critically ill patients, which of the following strategies is most effective in preventing the reactivation of Cytomegalovirus (CMV) and improving clinical outcomes?",
+      "options": {
+        "A": "Routine administration of antiviral prophylaxis in all critically ill patients",
+        "B": "Early identification and management of immunosuppression and risk factors for CMV reactivation",
+        "C": "Use of broad-spectrum antibiotics to prevent secondary infections",
+        "D": "Regular monitoring of procalcitonin levels to guide antibiotic therapy"
+      },
+      "correct_answer": "B",
+      "explanation": "Early identification and management of immunosuppression and risk factors for CMV reactivation have been shown to be effective in preventing CMV reactivation and improving clinical outcomes in critically ill patients. Routine antiviral prophylaxis may not be necessary for all patients, and broad-spectrum antibiotics do not specifically target viral infections. Monitoring procalcitonin levels is primarily used for bacterial infection assessment, not for preventing viral reactivation.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "hard",
+      "topic": "prevention"
+    },
+    {
+      "id": 24,
+      "question": "In the context of managing patients with alcoholic hepatitis, which of the following complications is most likely to arise from persistent hypotension if not adequately addressed with appropriate resuscitation and vasopressor therapy?",
+      "options": {
+        "A": "Acute kidney injury",
+        "B": "Hyperglycemia",
+        "C": "Elevated liver enzymes",
+        "D": "Increased troponin levels"
+      },
+      "correct_answer": "A",
+      "explanation": "Persistent hypotension in patients with alcoholic hepatitis can lead to inadequate perfusion of vital organs, resulting in acute kidney injury. While elevated troponin levels may indicate myocyte stress, the direct complication of inadequate volume resuscitation and vasopressor therapy primarily affects renal function.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "complications"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is a potential complication associated with acute liver failure (ALF) as mentioned in the provided medical content?",
+      "options": {
+        "A": "Cranial hypertension",
+        "B": "Hyperkalemia",
+        "C": "Hyperphosphatemia",
+        "D": "Hypoglycemia"
+      },
+      "correct_answer": "A",
+      "explanation": "Cranial hypertension is listed as one of the main organ-specific complications in acute liver failure (ALF), while the other options do not appear in the provided content related to ALF complications.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "complications"
+    },
+    {
+      "id": 26,
+      "question": "In the context of clinical deterioration in patients with liver failure and extrahepatic organ involvement, what is the recommended course of action according to the guidelines?",
+      "options": {
+        "A": "Initiate outpatient management and monitor closely",
+        "B": "Transfer to a critical care unit and tertiary center",
+        "C": "Administer high-dose corticosteroids immediately",
+        "D": "Conduct a liver biopsy to assess damage"
+      },
+      "correct_answer": "B",
+      "explanation": "The guidelines recommend that clinical deterioration with extrahepatic organ involvement should result in transfer to critical care and a tertiary center, indicating the need for specialized management in a more intensive care setting.",
+      "confidence": 1.0,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "management"
+    },
+    {
+      "id": 27,
+      "question": "Which dietary approach is suggested to potentially slow the progression of chronic kidney disease (CKD) and reduce the need for dialysis by addressing cardiometabolic risk factors?",
+      "options": {
+        "A": "High-protein diet",
+        "B": "Mediterranean diet",
+        "C": "Whole-food, plant-based diet",
+        "D": "Ketogenic diet"
+      },
+      "correct_answer": "C",
+      "explanation": "A whole-food, plant-based diet is rich in anti-inflammatory nutrients, fiber, and phytochemicals, which may help slow CKD progression and reduce the need for dialysis by lowering cardiometabolic risk factors such as hypertension, cardiovascular disease, diabetes, and obesity.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "management"
+    },
+    {
+      "id": 28,
+      "question": "What is the primary focus of the practice guideline for the treatment of patients with obsessive-compulsive disorder as mentioned in the provided medical content?",
+      "options": {
+        "A": "The use of parenteral amino acid supplementation",
+        "B": "The efficacy of sertraline in long-term treatment",
+        "C": "The treatment of patients with liver failure",
+        "D": "The treatment of patients with obsessive-compulsive disorder"
+      },
+      "correct_answer": "D",
+      "explanation": "The practice guideline specifically addresses the treatment of patients with obsessive-compulsive disorder, outlining recommended therapeutic approaches and considerations for managing this condition.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 29,
+      "question": "In patients with severe paracetamol-induced hepatotoxicity, what is the significance of the early appearance and magnitude of Systemic Inflammatory Response Syndrome (SIRS) in relation to patient outcomes?",
+      "options": {
+        "A": "It indicates a higher likelihood of successful transplantation.",
+        "B": "It is associated with a lower risk of organ failure and mortality.",
+        "C": "It precedes the development of organ failure and correlates with increased mortality risk.",
+        "D": "It suggests a stronger anti-inflammatory response in the patient."
+      },
+      "correct_answer": "C",
+      "explanation": "The early appearance and greater magnitude of SIRS in patients with severe paracetamol-induced hepatotoxicity are associated with a higher risk of organ failure and increased mortality, as indicated by studies showing that SIRS scores correlate with SOFA scores and patient outcomes.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "hard",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 30,
+      "question": "In a patient diagnosed with severe community-acquired pneumonia, which of the following management strategies is most critical if the patient exhibits septic shock requiring vasopressors?",
+      "options": {
+        "A": "Initiating broad-spectrum antibiotics",
+        "B": "Administering corticosteroids",
+        "C": "Providing supplemental oxygen",
+        "D": "Implementing aggressive fluid resuscitation"
+      },
+      "correct_answer": "D",
+      "explanation": "In cases of septic shock, aggressive fluid resuscitation is crucial to restore hemodynamic stability and improve perfusion, making it the most critical management strategy in this scenario. While initiating antibiotics and providing supplemental oxygen are also important, they are secondary to the immediate need for fluid resuscitation in the context of septic shock.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "management"
+    },
+    {
+      "id": 31,
+      "question": "What is a common psychological effect that patients diagnosed with glaucoma may experience?",
+      "options": {
+        "A": "Increased energy levels",
+        "B": "Fear of blindness",
+        "C": "Enhanced vision",
+        "D": "Improved emotional stability"
+      },
+      "correct_answer": "B",
+      "explanation": "Patients diagnosed with glaucoma often experience fear of blindness, which can lead to negative psychological effects. This fear can impact their overall well-being and adherence to treatment.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 32,
+      "question": "In the context of organophosphate poisoning, which of the following pathophysiological mechanisms primarily contributes to the development of cholinergic crisis?",
+      "options": {
+        "A": "Inhibition of acetylcholinesterase leading to accumulation of acetylcholine at synaptic clefts",
+        "B": "Increased production of catecholamines resulting in sympathetic overactivity",
+        "C": "Direct damage to neuronal cell membranes causing cell lysis",
+        "D": "Activation of the renin-angiotensin system leading to vasoconstriction"
+      },
+      "correct_answer": "A",
+      "explanation": "Organophosphate compounds inhibit acetylcholinesterase, the enzyme responsible for breaking down acetylcholine in the synaptic cleft. This inhibition leads to an accumulation of acetylcholine, resulting in overstimulation of cholinergic receptors and the subsequent development of cholinergic crisis, characterized by symptoms such as salivation, lacrimation, urination, diarrhea, gastrointestinal distress, and muscle twitching.",
+      "confidence": 1.0,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "pathophysiology"
+    },
+    {
+      "id": 33,
+      "question": "In the context of managing patients with chronic kidney disease (CKD), which of the following approaches is most likely to improve patient outcomes by addressing the underlying pathophysiological processes associated with CKD progression?",
+      "options": {
+        "A": "Initiating high-dose diuretics to manage fluid overload",
+        "B": "Implementing a structured dietary intervention focused on protein restriction",
+        "C": "Prescribing broad-spectrum antibiotics to prevent infections",
+        "D": "Utilizing corticosteroids to suppress inflammatory responses"
+      },
+      "correct_answer": "B",
+      "explanation": "Implementing a structured dietary intervention focused on protein restriction is a key management strategy in CKD that can help slow disease progression and improve outcomes by reducing the workload on the kidneys and minimizing the accumulation of uremic toxins. High-dose diuretics may manage fluid overload but do not address CKD progression. Broad-spectrum antibiotics are not a standard preventive measure in CKD management, and corticosteroids may not be appropriate as they can lead to further complications in CKD patients.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "management"
+    },
+    {
+      "id": 34,
+      "question": "In the context of diagnosing glaucomatous optic disc damage, which of the following criteria is primarily utilized according to the neuroretinal rim area rule established by Dr. Morgan E. Grams and colleagues?",
+      "options": {
+        "A": "The presence of elevated intraocular pressure (IOP)",
+        "B": "The assessment of the neuroretinal rim width in relation to the optic disc size",
+        "C": "The evaluation of visual field defects using perimetry",
+        "D": "The identification of retinal nerve fiber layer thinning via optical coherence tomography (OCT)"
+      },
+      "correct_answer": "B",
+      "explanation": "The neuroretinal rim area rule focuses on the assessment of the neuroretinal rim width in relation to the optic disc size as a key criterion for diagnosing glaucomatous optic disc damage, distinguishing it from other diagnostic methods that may also be relevant but are not the primary focus of this specific rule.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "hard",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 35,
+      "question": "What treatment has been shown to improve organ function in patients with severe sepsis or septic shock?",
+      "options": {
+        "A": "Saline fluid resuscitation",
+        "B": "Albumin replacement",
+        "C": "Lactate clearance",
+        "D": "Buffered crystalloid solution"
+      },
+      "correct_answer": "B",
+      "explanation": "Albumin replacement has been demonstrated to improve organ function in patients with severe sepsis or septic shock, as indicated in the referenced studies.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "treatment"
+    },
+    {
+      "id": 36,
+      "question": "What is the primary pathophysiological mechanism involved in acute liver failure following paracetamol (acetaminophen) overdose?",
+      "options": {
+        "A": "Increased bile acid synthesis",
+        "B": "Depletion of glutathione leading to hepatocyte injury",
+        "C": "Activation of the renin-angiotensin system",
+        "D": "Inhibition of hepatic blood flow"
+      },
+      "correct_answer": "B",
+      "explanation": "In acute liver failure due to paracetamol overdose, the primary mechanism involves the depletion of glutathione, which is crucial for detoxifying the toxic metabolite N-acetyl-p-benzoquinone imine (NAPQI). When glutathione is depleted, NAPQI accumulates and causes significant hepatocyte injury, leading to liver failure.",
+      "confidence": 0.95,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "pathophysiology"
+    },
+    {
+      "id": 37,
+      "question": "What is the primary focus of the American College of Chest Physicians Evidence-Based Clinical Practice Guidelines regarding venous thromboembolism (VTE) in hospitalized patients?",
+      "options": {
+        "A": "Treatment of existing VTE",
+        "B": "Prevention of venous thromboembolism",
+        "C": "Diagnosis of pulmonary embolism",
+        "D": "Management of chronic liver disease"
+      },
+      "correct_answer": "B",
+      "explanation": "The American College of Chest Physicians guidelines primarily emphasize the prevention of venous thromboembolism in hospitalized patients, outlining evidence-based strategies to reduce the incidence of this condition.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "prevention"
+    },
+    {
+      "id": 38,
+      "question": "In the context of chronic kidney disease (CKD), which of the following pathophysiological mechanisms is primarily responsible for the altered sodium handling observed in patients, leading to hypertension and fluid retention?",
+      "options": {
+        "A": "Increased renal blood flow",
+        "B": "Impaired glomerular filtration rate",
+        "C": "Enhanced sodium reabsorption in the proximal tubule",
+        "D": "Decreased aldosterone secretion"
+      },
+      "correct_answer": "C",
+      "explanation": "In chronic kidney disease, the kidneys often exhibit impaired glomerular filtration rate (B), but the primary pathophysiological mechanism leading to hypertension and fluid retention is the enhanced sodium reabsorption in the proximal tubule (C). This occurs due to various compensatory mechanisms in response to reduced nephron function, resulting in sodium retention and increased blood pressure. Increased renal blood flow (A) is not typically associated with CKD, and decreased aldosterone secretion (D) is not a characteristic of CKD, as aldosterone levels can be elevated due to volume status changes.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "pathophysiology"
+    },
+    {
+      "id": 39,
+      "question": "In critically ill patients with acute liver failure, which of the following pathophysiological mechanisms is most likely responsible for the observed elevation of troponin levels, and how does it relate to patient outcomes?",
+      "options": {
+        "A": "Direct myocardial injury due to viral infection",
+        "B": "Myocyte stress resulting from metabolic disarray and multiple organ failure",
+        "C": "Increased myocardial oxygen demand due to systemic inflammation",
+        "D": "Decreased cardiac output leading to ischemic injury of the myocardium"
+      },
+      "correct_answer": "B",
+      "explanation": "Elevated troponin levels in critically ill patients, particularly those with acute liver failure, are primarily indicative of myocyte stress rather than direct myocardial injury. This stress is often a consequence of metabolic disarray and the systemic effects of multiple organ failure, which can lead to poor clinical outcomes.",
+      "confidence": 0.85,
+      "type": "explicit",
+      "difficulty": "hard",
+      "topic": "pathophysiology"
+    },
+    {
+      "id": 40,
+      "question": "In a patient presenting with acute liver failure, which of the following clinical features is most likely to be observed as a result of systemic inflammatory response syndrome (SIRS) following an acetaminophen overdose?",
+      "options": {
+        "A": "Elevated blood glucose levels",
+        "B": "Decreased heart rate",
+        "C": "Increased respiratory rate",
+        "D": "Normal liver function tests"
+      },
+      "correct_answer": "C",
+      "explanation": "In cases of acute liver failure, particularly following acetaminophen overdose, the systemic inflammatory response syndrome (SIRS) can manifest with increased respiratory rate as a compensatory mechanism due to metabolic acidosis or other systemic effects. Elevated blood glucose levels and decreased heart rate are not typical features, and normal liver function tests would not be expected in acute liver failure.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 41,
+      "question": "What is a key consideration when evaluating the benefits and harms of a treatment for rhinosinusitis according to the evidence-based statements?",
+      "options": {
+        "A": "The cost of the treatment",
+        "B": "The level of patient (caregiver) preferences",
+        "C": "The aggregate evidence quality",
+        "D": "The strength of the recommendation"
+      },
+      "correct_answer": "B",
+      "explanation": "The role of patient (caregiver) preferences is explicitly stated as a consideration in the action statement profile, highlighting its importance in evaluating the benefits and harms of treatment options.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "complications"
+    },
+    {
+      "id": 42,
+      "question": "In critically ill patients, which of the following interventions is suggested to improve cortisol metabolism and potentially enhance clinical outcomes?",
+      "options": {
+        "A": "Administration of high-density lipoprotein",
+        "B": "Use of glucocorticoids",
+        "C": "Thyroid hormone replacement therapy",
+        "D": "Increased fluid resuscitation"
+      },
+      "correct_answer": "B",
+      "explanation": "The literature indicates that glucocorticoids can help modulate the body's response to critical illness, particularly in managing cortisol metabolism, which is often disrupted in such patients. This can lead to improved outcomes in critically ill individuals.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "treatment"
+    },
+    {
+      "id": 43,
+      "question": "In the management of pediatric patients with acute protein-energy malnutrition during an infection, which of the following interventions is most critical to support their recovery?",
+      "options": {
+        "A": "Immediate initiation of enteral feeding",
+        "B": "Administration of intravenous heme-albumin",
+        "C": "Use of high-dose antibiotics",
+        "D": "Implementation of a strict fluid restriction"
+      },
+      "correct_answer": "A",
+      "explanation": "Immediate initiation of enteral feeding is crucial in the management of pediatric patients with acute protein-energy malnutrition, as it helps to restore nutritional status and supports recovery during infections. While intravenous heme-albumin may be beneficial in specific conditions, it is not the primary intervention for malnutrition. High-dose antibiotics may be necessary for infection but do not address the underlying malnutrition. Strict fluid restriction is generally not indicated in these cases.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "management"
+    },
+    {
+      "id": 44,
+      "question": "What is a significant complication associated with herpes simplex virus type 2 (HSV-2) in relation to HIV incidence?",
+      "options": {
+        "A": "Increased risk of bacterial infections",
+        "B": "Enhanced susceptibility to HIV infection",
+        "C": "Decreased immune response",
+        "D": "Reduced effectiveness of antiretroviral therapy"
+      },
+      "correct_answer": "B",
+      "explanation": "Herpes simplex virus type 2 (HSV-2) plays a key role in increasing susceptibility to HIV infection, as highlighted in the literature. This interrelationship is significant in understanding the epidemiological synergy between sexually transmitted diseases and HIV.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "complications"
+    },
+    {
+      "id": 45,
+      "question": "What is a common clinical presentation of acute liver failure in pediatric patients?",
+      "options": {
+        "A": "Jaundice",
+        "B": "Hypertension",
+        "C": "Bradycardia",
+        "D": "Hyperglycemia"
+      },
+      "correct_answer": "A",
+      "explanation": "Jaundice is a common clinical presentation of acute liver failure, indicating liver dysfunction and the accumulation of bilirubin in the bloodstream. Other options listed do not typically correlate with acute liver failure in pediatric patients.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 46,
+      "question": "Which biomarker is identified as indicating cell injury rather than bacterial infection in acute liver failure?",
+      "options": {
+        "A": "C-reactive protein",
+        "B": "Procalcitonin",
+        "C": "Cytomegalovirus",
+        "D": "Human Herpesvirus 6"
+      },
+      "correct_answer": "B",
+      "explanation": "Procalcitonin has been shown to identify cell injury in acute liver failure, distinguishing it from bacterial infection, as noted in the study by Rule et al. (2015).",
+      "confidence": 0.8,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 47,
+      "question": "In the context of severe paracetamol-induced hepatotoxicity, which of the following best describes the relationship between SIRS and patient outcomes, particularly regarding organ failure and mortality risk?",
+      "options": {
+        "A": "SIRS development is independent of organ failure and does not influence mortality risk.",
+        "B": "The presence of SIRS is associated with a delayed onset of organ failure and decreased mortality risk.",
+        "C": "Early and pronounced SIRS is correlated with an increased likelihood of organ failure and higher mortality risk.",
+        "D": "SIRS is primarily a consequence of successful treatment interventions, leading to improved patient outcomes."
+      },
+      "correct_answer": "C",
+      "explanation": "The text indicates that the development of SIRS precedes organ failure and that increased SIRS scores correlate with higher SOFA scores and mortality risk, particularly in patients with severe paracetamol-induced hepatotoxicity.",
+      "confidence": 0.95,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "pathophysiology"
+    },
+    {
+      "id": 48,
+      "question": "In managing patients with chronic kidney disease (CKD) who exhibit both reduced estimated glomerular filtration rate (eGFR) and elevated albuminuria, which of the following treatment strategies is most likely to reduce the risk of adverse outcomes based on recent evidence?",
+      "options": {
+        "A": "Initiating high-dose corticosteroids",
+        "B": "Implementing strict glycemic control in diabetic patients",
+        "C": "Prescribing angiotensin-converting enzyme (ACE) inhibitors",
+        "D": "Increasing dietary protein intake"
+      },
+      "correct_answer": "C",
+      "explanation": "Recent evidence suggests that prescribing angiotensin-converting enzyme (ACE) inhibitors in patients with CKD who have both reduced eGFR and elevated albuminuria can significantly reduce the risk of adverse outcomes, including progression to end-stage renal disease and cardiovascular events. This treatment is supported by the findings from the individual-participant data meta-analysis referenced, which highlights the importance of managing both eGFR and albuminuria in CKD patients.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "treatment"
+    },
+    {
+      "id": 49,
+      "question": "In the management of patients with end-stage liver disease, which intervention has been shown to improve survival outcomes by addressing sarcopenia and its associated complications?",
+      "options": {
+        "A": "Administration of high-dose corticosteroids",
+        "B": "Implementation of a structured exercise program",
+        "C": "Use of transjugular intrahepatic portosystemic stent placement",
+        "D": "Initiation of a high-protein diet"
+      },
+      "correct_answer": "C",
+      "explanation": "The placement of a transjugular intrahepatic portosystemic stent has been associated with improved survival outcomes in patients with end-stage liver disease, particularly when addressing complications related to sarcopenia. While exercise and dietary interventions are important, the specific intervention that has shown a direct impact on survival in this context is the stent placement.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "treatment"
+    },
+    {
+      "id": 50,
+      "question": "In the context of managing septic shock, which approach is suggested to optimize patient outcomes while considering the limitations of current vasopressor therapies?",
+      "options": {
+        "A": "Adhering strictly to high blood pressure targets regardless of individual patient response",
+        "B": "Utilizing a permissive hypotension strategy to avoid aggressive vasopressor use",
+        "C": "Relying solely on the use of inotropes to manage blood pressure",
+        "D": "Implementing a one-size-fits-all blood pressure target for all septic shock patients"
+      },
+      "correct_answer": "B",
+      "explanation": "The literature suggests that a permissive hypotension strategy, which allows for lower blood pressure targets in certain patients, may optimize outcomes by reducing the risks associated with aggressive vasopressor therapy. This approach acknowledges the variability in patient response and the potential for vascular hyporesponsiveness in septic shock.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "treatment"
+    },
+    {
+      "id": 51,
+      "question": "In critically ill patients, which intervention has been shown to protect hepatocyte mitochondrial ultrastructure and function, thereby potentially improving overall outcomes?",
+      "options": {
+        "A": "Administration of antibiotics",
+        "B": "Strict blood glucose control with insulin",
+        "C": "Use of corticosteroids",
+        "D": "Increased fluid resuscitation"
+      },
+      "correct_answer": "B",
+      "explanation": "Strict blood glucose control with insulin has been demonstrated to protect hepatocyte mitochondrial ultrastructure and function in critically ill patients, as indicated by the study referenced in the provided medical content.",
+      "confidence": 0.7,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 52,
+      "question": "In patients with acute liver failure, which of the following clinical presentations is most commonly associated with the condition?",
+      "options": {
+        "A": "Jaundice",
+        "B": "Hypertension",
+        "C": "Bradycardia",
+        "D": "Hyperglycemia"
+      },
+      "correct_answer": "A",
+      "explanation": "Jaundice is a hallmark clinical presentation in acute liver failure due to the liver's inability to process bilirubin, leading to its accumulation in the bloodstream. Other options, such as hypertension, bradycardia, and hyperglycemia, are not typically associated with acute liver failure.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 53,
+      "question": "In the management of adults with community-acquired pneumonia (CAP), which clinical presentation would most likely necessitate direct admission to an ICU?",
+      "options": {
+        "A": "Mild fever and cough without respiratory distress",
+        "B": "Hypotension requiring vasopressors",
+        "C": "Moderate shortness of breath with no need for oxygen",
+        "D": "Stable vital signs with a history of asthma"
+      },
+      "correct_answer": "B",
+      "explanation": "Direct admission to an ICU is recommended for patients with hypotension requiring vasopressors or respiratory failure requiring mechanical ventilation. Among the options provided, hypotension requiring vasopressors indicates a severe clinical condition that necessitates intensive monitoring and treatment, making it the correct answer.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 54,
+      "question": "In a patient with acute liver failure (ALF), which of the following electrolyte imbalances is most likely to contribute to the development of cranial hypertension and subsequent brain death?",
+      "options": {
+        "A": "Hyperkalemia",
+        "B": "Hypoglycemia",
+        "C": "Hyponatremia",
+        "D": "Hypophosphoremia"
+      },
+      "correct_answer": "C",
+      "explanation": "Hyponatremia, or low sodium levels, can lead to cerebral edema and increased intracranial pressure, which are critical factors in the development of cranial hypertension and can ultimately result in brain death in patients with acute liver failure.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 55,
+      "question": "In the management of patients presenting with persistent hypotension, which of the following is the recommended first-line vasopressor agent according to the guidelines?",
+      "options": {
+        "A": "Dopamine",
+        "B": "Norepinephrine",
+        "C": "Epinephrine",
+        "D": "Phenylephrine"
+      },
+      "correct_answer": "B",
+      "explanation": "The guidelines recommend norepinephrine as the vasopressor of choice for managing persistent hypotension, as indicated by the evidence level III and grade of recommendation 1.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "management"
+    },
+    {
+      "id": 56,
+      "question": "In the context of acute liver failure, which of the following complications is most commonly associated with the condition and can significantly impact patient outcomes?",
+      "options": {
+        "A": "Acute kidney injury",
+        "B": "Clostridium difficile infection",
+        "C": "Obsessive-compulsive disorder",
+        "D": "Splanchnic metabolism dysfunction"
+      },
+      "correct_answer": "A",
+      "explanation": "Acute kidney injury is a well-documented complication of acute liver failure, often leading to worsened prognosis and increased mortality. It is critical for clinicians to monitor renal function in these patients to manage and mitigate this risk effectively.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 57,
+      "question": "Which treatment has been shown to have an adjunctive role in the management of community-acquired pneumonia, potentially improving patient outcomes?",
+      "options": {
+        "A": "High-frequency oscillation therapy",
+        "B": "Hydrocortisone infusion",
+        "C": "Proton pump inhibitors",
+        "D": "Low-tidal-volume ventilation"
+      },
+      "correct_answer": "B",
+      "explanation": "Hydrocortisone infusion has been studied as an adjunctive treatment for severe community-acquired pneumonia, as indicated in the literature, suggesting it may improve patient outcomes when used alongside standard therapies.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "treatment"
+    },
+    {
+      "id": 58,
+      "question": "What is the recommended approach for nutritional support in patients with acute liver failure according to the ESPEN guidelines?",
+      "options": {
+        "A": "Only enteral nutrition should be used",
+        "B": "Only parenteral nutrition should be used",
+        "C": "Both enteral and parenteral nutrition can be utilized based on the patient's condition",
+        "D": "Nutritional support is not recommended in acute liver failure"
+      },
+      "correct_answer": "C",
+      "explanation": "The ESPEN guidelines on nutrition in liver disease suggest that both enteral and parenteral nutrition can be utilized depending on the patient's specific condition and needs, allowing for a tailored approach to nutritional support in acute liver failure.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "management"
+    },
+    {
+      "id": 59,
+      "question": "What is the primary metabolic consequence of high-volume plasmapheresis in patients with acute liver failure, particularly concerning nitrogen metabolism?",
+      "options": {
+        "A": "Decreased ammonia levels",
+        "B": "Increased urea production",
+        "C": "Elevated amino acid concentrations",
+        "D": "Enhanced hepatic blood flow"
+      },
+      "correct_answer": "A",
+      "explanation": "High-volume plasmapheresis is used in acute liver failure to remove excess ammonia from the bloodstream, thereby decreasing ammonia levels, which can be toxic and contribute to hepatic encephalopathy.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "pathophysiology"
+    },
+    {
+      "id": 60,
+      "question": "What is the primary focus of the KDOQI clinical practice guideline for vascular access updated in 2019?",
+      "options": {
+        "A": "Management of diabetic kidney disease",
+        "B": "Prevention of gastrointestinal bleeding in ICU patients",
+        "C": "Recommendations for creating and maintaining vascular access in patients requiring dialysis",
+        "D": "Guidelines for the use of antidotes in acute poisoning cases"
+      },
+      "correct_answer": "C",
+      "explanation": "The KDOQI clinical practice guideline for vascular access primarily addresses the recommendations for creating and maintaining vascular access in patients requiring dialysis, ensuring optimal care and outcomes for these patients.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "management"
+    },
+    {
+      "id": 61,
+      "question": "Which treatment has been studied for its efficacy in patients with panic disorder, particularly in relation to the use of a specific medication?",
+      "options": {
+        "A": "Clonazepam",
+        "B": "Riluzole",
+        "C": "Paroxetine",
+        "D": "Tiagabine"
+      },
+      "correct_answer": "A",
+      "explanation": "Clonazepam has been specifically studied in a dose-response trial for the treatment of panic disorder with or without agoraphobia, indicating its efficacy in this clinical presentation.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 62,
+      "question": "What is a recommended strategy to potentially reduce the incidence of cardiovascular disease (CVD) and the progression of chronic kidney disease (CKD) in targeted populations?",
+      "options": {
+        "A": "Implementing dietary restrictions without medical supervision",
+        "B": "Systematically detecting and treating CKD in community settings",
+        "C": "Increasing the use of over-the-counter pain medications",
+        "D": "Focusing solely on end-stage kidney disease management"
+      },
+      "correct_answer": "B",
+      "explanation": "Systematic detection and treatment of CKD in targeted populations can lead to earlier interventions, which may help reduce the incidence of CVD and slow the progression of CKD to kidney failure.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "prevention"
+    },
+    {
+      "id": 63,
+      "question": "In the management of patients with acute liver failure, which nutritional support approach is recommended according to the ESPEN guidelines?",
+      "options": {
+        "A": "Exclusive parenteral nutrition",
+        "B": "Early enteral nutrition",
+        "C": "Nutritional support only after stabilization",
+        "D": "High-protein diet without monitoring"
+      },
+      "correct_answer": "B",
+      "explanation": "The ESPEN guidelines recommend early enteral nutrition as the preferred approach for providing nutritional support in patients with acute liver failure, as it is associated with better outcomes compared to parenteral nutrition or delayed nutritional support.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "management"
+    },
+    {
+      "id": 64,
+      "question": "In the context of managing patients with kidney diseases, which of the following initiatives is specifically aimed at catalyzing innovation and developing patient-centered therapies in collaboration with the FDA and ASN?",
+      "options": {
+        "A": "Kidney Precision Medicine Project (KPMP)",
+        "B": "Kidney Health Initiative (KHI)",
+        "C": "APOL1 Long-term Kidney Transplantation Outcomes Network (APOLLO)",
+        "D": "BLOod Sugar Sensing On Maintenance dialysis (BLOSSOM)"
+      },
+      "correct_answer": "B",
+      "explanation": "The Kidney Health Initiative (KHI) is a partnership between the US Food & Drug Administration and the American Society of Nephrology (ASN) that focuses on catalyzing innovation and developing safe and effective patient-centered therapies for individuals living with kidney diseases.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "hard",
+      "topic": "management"
+    },
+    {
+      "id": 65,
+      "question": "In a patient presenting with acute liver failure, which of the following clinical features is most likely to indicate the development of lung injury associated with the condition?",
+      "options": {
+        "A": "Elevated serum bilirubin levels",
+        "B": "Increased respiratory rate and hypoxemia",
+        "C": "Presence of ascites",
+        "D": "Elevated ammonia levels"
+      },
+      "correct_answer": "B",
+      "explanation": "In acute liver failure, lung injury can manifest as hypoxemia and increased respiratory rate due to the hepatopulmonary syndrome, which is characterized by impaired gas exchange and pulmonary vascular changes. Elevated serum bilirubin, ascites, and ammonia levels are common in liver failure but do not directly indicate lung injury.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 66,
+      "question": "In the management of chronic kidney disease (CKD), which of the following treatment strategies is most critical for patients with concurrent hypertension and diabetes to prevent further renal deterioration?",
+      "options": {
+        "A": "Initiating a high-protein diet",
+        "B": "Aggressive blood pressure control",
+        "C": "Regular use of nephrotoxic medications",
+        "D": "Avoiding lipid management"
+      },
+      "correct_answer": "B",
+      "explanation": "Aggressive blood pressure control is essential in managing CKD, especially in patients with hypertension and diabetes, as it significantly reduces the risk of further renal deterioration and cardiovascular complications.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "treatment"
+    },
+    {
+      "id": 67,
+      "question": "What is the recommended first-line vasopressor for managing persistent hypotension in patients requiring critical care management?",
+      "options": {
+        "A": "Dopamine",
+        "B": "Norepinephrine",
+        "C": "Epinephrine",
+        "D": "Phenylephrine"
+      },
+      "correct_answer": "B",
+      "explanation": "Norepinephrine is identified as the vasopressor of choice for managing persistent hypotension, as indicated in the recommendations provided.",
+      "confidence": 1.0,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "treatment"
+    },
+    {
+      "id": 68,
+      "question": "In the context of assessing sarcopenia in patients with end-stage liver disease, which imaging modality has been highlighted for its emerging role in evaluating body composition and diagnosing cancer cachexia?",
+      "options": {
+        "A": "Magnetic Resonance Imaging (MRI)",
+        "B": "Positron Emission Tomography (PET)",
+        "C": "Computed Tomography (CT)",
+        "D": "Ultrasound"
+      },
+      "correct_answer": "C",
+      "explanation": "The emerging role of computerized tomography (CT) in assessing cancer cachexia and sarcopenia in patients with end-stage liver disease has been emphasized in the literature, making it the correct answer.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "hard",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 69,
+      "question": "In critically ill patients with acute liver failure, which management strategy has been shown to protect hepatocyte mitochondrial function and improve outcomes through strict metabolic control?",
+      "options": {
+        "A": "Administration of branched chain amino acids",
+        "B": "Implementation of tight blood glucose control",
+        "C": "Use of parenteral nutrition exclusively",
+        "D": "Initiation of enteral nutrition within 24 hours"
+      },
+      "correct_answer": "B",
+      "explanation": "Tight blood glucose control has been demonstrated to protect hepatocyte mitochondrial ultrastructure and function in critically ill patients, thereby improving outcomes in conditions such as acute liver failure. This management strategy is crucial in mitigating cellular stress and enhancing survival rates.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "management"
+    },
+    {
+      "id": 70,
+      "question": "What is a key preventive measure to reduce the risk of community-acquired pneumonia in adults?",
+      "options": {
+        "A": "Regular handwashing",
+        "B": "Increased physical activity",
+        "C": "High protein diet",
+        "D": "Frequent use of antibiotics"
+      },
+      "correct_answer": "A",
+      "explanation": "Regular handwashing is a fundamental preventive measure that helps reduce the transmission of pathogens, thereby lowering the risk of infections such as community-acquired pneumonia in adults.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "prevention"
+    },
+    {
+      "id": 71,
+      "question": "What is the primary mechanism by which acetylcysteine exerts its beneficial effects in fulminant hepatic failure?",
+      "options": {
+        "A": "Inhibition of guanylate cyclase",
+        "B": "Enhancement of hemodynamics and oxygen transport",
+        "C": "Direct hepatocyte regeneration",
+        "D": "Reduction of ammonia levels"
+      },
+      "correct_answer": "B",
+      "explanation": "Acetylcysteine improves hemodynamics and oxygen transport in patients with fulminant hepatic failure, as evidenced by studies showing its effects on these parameters.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "pathophysiology"
+    },
+    {
+      "id": 72,
+      "question": "What is a common consequence of protein-calorie malnutrition in patients with liver cirrhosis?",
+      "options": {
+        "A": "Increased muscle mass",
+        "B": "Enhanced liver function",
+        "C": "Decreased muscle function",
+        "D": "Improved energy expenditure"
+      },
+      "correct_answer": "C",
+      "explanation": "Protein-calorie malnutrition in patients with liver cirrhosis often leads to decreased muscle function due to the loss of muscle mass and strength, which can significantly impact their overall health and recovery.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "pathophysiology"
+    },
+    {
+      "id": 73,
+      "question": "What is the primary role of procalcitonin in the context of acute liver failure, as indicated in the provided medical content?",
+      "options": {
+        "A": "Identifying bacterial infections",
+        "B": "Indicating cell injury",
+        "C": "Diagnosing liver cirrhosis",
+        "D": "Assessing liver function"
+      },
+      "correct_answer": "B",
+      "explanation": "The provided content states that procalcitonin identifies cell injury, not bacterial infection, in acute liver failure, highlighting its role in assessing cellular damage rather than infection.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 74,
+      "question": "What is a potential complication associated with the administration of terlipressin in patients with acute liver failure and severe encephalopathy?",
+      "options": {
+        "A": "Improved cerebral perfusion",
+        "B": "Worsening of cerebral hyperemia",
+        "C": "Decreased intracranial pressure",
+        "D": "Enhanced lactate clearance"
+      },
+      "correct_answer": "B",
+      "explanation": "The administration of terlipressin in patients with acute liver failure and severe encephalopathy has been associated with worsening of cerebral hyperemia, which can exacerbate neurological complications.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "complications"
+    },
+    {
+      "id": 75,
+      "question": "In critically ill adults, what is the primary benefit of initiating early nutritional support compared to delaying it?",
+      "options": {
+        "A": "It reduces the risk of major adverse cardiovascular events.",
+        "B": "It improves energy metabolism and outcomes related to nonthyroidal illness syndrome.",
+        "C": "It enhances the effectiveness of mineralocorticoid receptor antagonists.",
+        "D": "It decreases the need for kidney replacement therapy."
+      },
+      "correct_answer": "B",
+      "explanation": "Early nutritional support in critically ill adults has been shown to improve energy metabolism and outcomes related to nonthyroidal illness syndrome, which can positively influence recovery and overall patient outcomes.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "treatment"
+    },
+    {
+      "id": 76,
+      "question": "What is a recommended strategy for the prevention of venous thromboembolism (VTE) in high-risk medical patients?",
+      "options": {
+        "A": "Increased physical activity",
+        "B": "Use of anticoagulant medications",
+        "C": "Administration of antibiotics",
+        "D": "Regular blood glucose monitoring"
+      },
+      "correct_answer": "B",
+      "explanation": "The American College of Chest Physicians recommends the use of anticoagulant medications as an effective strategy for the prevention of venous thromboembolism in high-risk medical patients.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "prevention"
+    },
+    {
+      "id": 77,
+      "question": "What strategy is suggested to enhance patient adherence to glaucoma medication regimens?",
+      "options": {
+        "A": "Increasing the frequency of eye drop administration",
+        "B": "Providing a clearly written medication regimen and follow-up reminders",
+        "C": "Prescribing only single medication drops",
+        "D": "Reducing the number of follow-up appointments"
+      },
+      "correct_answer": "B",
+      "explanation": "The text emphasizes that providing a clearly written medication regimen and follow-up reminders, along with repeated instruction and counseling, can improve adherence to therapy in patients with glaucoma.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "prevention"
+    },
+    {
+      "id": 78,
+      "question": "In patients with compensated liver cirrhosis, which intervention is most likely to improve prognosis by addressing malnutrition and potentially reversing sarcopenia?",
+      "options": {
+        "A": "Initiating a high-protein diet",
+        "B": "Implementing a structured exercise program",
+        "C": "Administering anti-inflammatory medications",
+        "D": "Increasing fluid intake to prevent dehydration"
+      },
+      "correct_answer": "B",
+      "explanation": "A structured exercise program has been shown to help reverse sarcopenia and improve muscle mass, which is crucial for patients with liver cirrhosis. Addressing malnutrition through physical activity can enhance overall prognosis, while the other options may not directly target the underlying issues of malnutrition and muscle wasting.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "prevention"
+    },
+    {
+      "id": 79,
+      "question": "What is a key benefit of strict blood glucose control in critically ill patients?",
+      "options": {
+        "A": "It increases the risk of biliary sludge.",
+        "B": "It protects renal function.",
+        "C": "It leads to spontaneous survival in all cases.",
+        "D": "It has no effect on cellular stress."
+      },
+      "correct_answer": "B",
+      "explanation": "Strict blood glucose control has been shown to be renoprotective in critically ill patients, helping to maintain renal function and prevent complications associated with hyperglycemia.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "prevention"
+    },
+    {
+      "id": 80,
+      "question": "Which of the following conditions is most likely to be associated with the development of sarcopenia in patients with liver disease?",
+      "options": {
+        "A": "Acute liver failure",
+        "B": "Alcoholic steatohepatitis",
+        "C": "Cholestatic liver dysfunction",
+        "D": "Cirrhosis"
+      },
+      "correct_answer": "D",
+      "explanation": "Sarcopenia, the loss of muscle mass and strength, is commonly observed in patients with cirrhosis due to factors such as malnutrition, inflammation, and metabolic changes associated with chronic liver disease. While acute liver failure and alcoholic steatohepatitis can also contribute to muscle loss, cirrhosis is the condition most definitively linked to the development of sarcopenia.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 81,
+      "question": "Which imaging technique is commonly used to assess liver conditions, including hepatocellular carcinoma (HCC)?",
+      "options": {
+        "A": "Dual energy X-ray absorptiometry (DXA)",
+        "B": "Computed tomography (CT)",
+        "C": "Magnetic resonance tomography (MRT)",
+        "D": "Percutaneous endoscopic gastrostomy (PEG)"
+      },
+      "correct_answer": "B",
+      "explanation": "Computed tomography (CT) is a widely used imaging technique for evaluating liver conditions, including the detection and assessment of hepatocellular carcinoma (HCC).",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 82,
+      "question": "In the management of community-acquired pneumonia (CAP), which of the following antibiotic regimens is recommended according to the 2007 ATS/IDSA guidelines for patients requiring combination therapy?",
+      "options": {
+        "A": "Ampicillin-sulbactam 1.5–3 g every 6 hours plus azithromycin 500 mg daily",
+        "B": "Levofloxacin 750 mg daily",
+        "C": "Vancomycin 15 mg/kg every 12 hours",
+        "D": "Ceftazidime 1–2 g every 8 hours plus clarithromycin 500 mg twice daily"
+      },
+      "correct_answer": "A",
+      "explanation": "According to the 2007 ATS/IDSA guidelines for the treatment of community-acquired pneumonia, the recommended combination therapy includes ampicillin-sulbactam plus a macrolide such as azithromycin. Options B and C pertain to different types of pneumonia or infections, while option D is not a recommended combination for CAP.",
+      "confidence": 0.95,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "treatment"
+    },
+    {
+      "id": 83,
+      "question": "Which of the following best describes the primary pathophysiological mechanism underlying the development of open-angle glaucoma?",
+      "options": {
+        "A": "Increased aqueous humor production leading to elevated intraocular pressure",
+        "B": "Impaired aqueous humor outflow through the trabecular meshwork",
+        "C": "Direct damage to retinal ganglion cells by oxidative stress",
+        "D": "Inflammation of the optic nerve head due to autoimmune processes"
+      },
+      "correct_answer": "B",
+      "explanation": "Open-angle glaucoma primarily results from impaired aqueous humor outflow through the trabecular meshwork, leading to increased intraocular pressure. This elevated pressure can cause damage to the optic nerve and result in characteristic visual field loss. While other factors may contribute to the disease, the primary mechanism is the obstruction of outflow pathways.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "hard",
+      "topic": "pathophysiology"
+    },
+    {
+      "id": 84,
+      "question": "What is the primary role of acute-phase proteins in response to infection in malnourished children?",
+      "options": {
+        "A": "To enhance muscle growth",
+        "B": "To regulate blood sugar levels",
+        "C": "To mediate the inflammatory response",
+        "D": "To improve digestive enzyme activity"
+      },
+      "correct_answer": "C",
+      "explanation": "Acute-phase proteins are part of the body's immediate response to infection and inflammation, playing a crucial role in mediating the inflammatory response, especially in malnourished individuals who may have compromised immune function.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "pathophysiology"
+    },
+    {
+      "id": 85,
+      "question": "Which medication has been evaluated in clinical trials for the treatment of panic disorder in comparison to imipramine?",
+      "options": {
+        "A": "Sertraline",
+        "B": "Alprazolam",
+        "C": "Citalopram",
+        "D": "Paroxetine"
+      },
+      "correct_answer": "B",
+      "explanation": "Alprazolam has been specifically mentioned in a clinical evaluation for patients with panic disorder, where it was compared to imipramine.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 86,
+      "question": "In patients with acute liver failure, which complication is most likely to arise due to the interplay of liver dysfunction and respiratory issues, potentially leading to significant morbidity and mortality?",
+      "options": {
+        "A": "Hepatopulmonary syndrome",
+        "B": "Intra-abdominal hypertension",
+        "C": "Sarcopenia",
+        "D": "Alcoholic steatohepatitis"
+      },
+      "correct_answer": "A",
+      "explanation": "Hepatopulmonary syndrome is a complication that can occur in patients with acute liver failure, characterized by the presence of liver dysfunction leading to pulmonary vasodilation and hypoxemia. This condition significantly impacts respiratory function and is associated with increased morbidity and mortality in these patients.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "complications"
+    },
+    {
+      "id": 87,
+      "question": "What is a key preventive measure to consider when managing patients at risk of adrenal insufficiency during glucocorticoid withdrawal?",
+      "options": {
+        "A": "Gradual tapering of glucocorticoids",
+        "B": "Immediate cessation of all medications",
+        "C": "Increasing fluid intake without monitoring",
+        "D": "Administering high doses of corticosteroids"
+      },
+      "correct_answer": "A",
+      "explanation": "Gradual tapering of glucocorticoids is essential to prevent adrenal insufficiency, as it allows the adrenal glands to gradually resume their normal function and hormone production. Immediate cessation or high doses can lead to severe complications.",
+      "confidence": 1.0,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "prevention"
+    },
+    {
+      "id": 88,
+      "question": "In the management of septic shock, which of the following treatment strategies has been shown to improve hemodynamic response when compared to norepinephrine infusion alone, according to the findings of Russell et al. (2008) and Gordon et al. (2014)?",
+      "options": {
+        "A": "Administration of high-dose corticosteroids alone",
+        "B": "Combined infusion of vasopressin and norepinephrine",
+        "C": "Use of fluid resuscitation without vasopressor therapy",
+        "D": "Initiation of continuous renal replacement therapy immediately"
+      },
+      "correct_answer": "B",
+      "explanation": "The studies by Russell et al. (2008) and Gordon et al. (2014) indicate that the combined use of vasopressin with norepinephrine infusion in patients with septic shock can lead to improved hemodynamic responses compared to norepinephrine alone, making option B the correct answer.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "hard",
+      "topic": "management"
+    },
+    {
+      "id": 89,
+      "question": "What complication is associated with fluid overload at the start of continuous renal replacement therapy according to the study by Chen et al. (2015)?",
+      "options": {
+        "A": "Improved renal function",
+        "B": "Better clinical outcomes",
+        "C": "Poorer clinical condition and outcomes",
+        "D": "Decreased risk of infection"
+      },
+      "correct_answer": "C",
+      "explanation": "The study by Chen et al. (2015) found that fluid overload at the start of continuous renal replacement therapy is associated with poorer clinical condition and outcomes, indicating a negative impact on patient health.",
+      "confidence": 1.0,
+      "type": "explicit",
+      "difficulty": "easy",
+      "topic": "complications"
+    },
+    {
+      "id": 90,
+      "question": "What imaging technique is recommended for the appropriate evaluation of paranasal sinus disease according to clinical consensus statements?",
+      "options": {
+        "A": "Magnetic Resonance Imaging (MRI)",
+        "B": "Ultrasound",
+        "C": "Computed Tomography (CT)",
+        "D": "X-ray"
+      },
+      "correct_answer": "C",
+      "explanation": "Clinical consensus statements indicate that Computed Tomography (CT) is the appropriate imaging technique for evaluating paranasal sinus disease, as it provides detailed images of the sinus structures.",
+      "confidence": 1.0,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 91,
+      "question": "Which of the following criteria would indicate a patient has severe community-acquired pneumonia according to the 2007 Infectious Diseases Society of America/American Thoracic Society guidelines?",
+      "options": {
+        "A": "A respiratory rate of 28 breaths/min",
+        "B": "A PaO2/FIO2 ratio of 240",
+        "C": "A white blood cell count of 5,000 cells/ml",
+        "D": "A core temperature of 37.5°C"
+      },
+      "correct_answer": "B",
+      "explanation": "According to the guidelines, a PaO2/FIO2 ratio of less than 250 is one of the minor criteria for defining severe community-acquired pneumonia. The other options do not meet the criteria for severity.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "diagnostic"
+    },
+    {
+      "id": 92,
+      "question": "In managing older adults with advanced chronic kidney disease (CKD), what is a key consideration for clinicians when developing treatment plans?",
+      "options": {
+        "A": "Focus solely on medication adherence",
+        "B": "Individualize therapies and goals of care",
+        "C": "Prioritize aggressive interventions regardless of age",
+        "D": "Limit discussions about advance care planning"
+      },
+      "correct_answer": "B",
+      "explanation": "The text emphasizes the importance of individualizing therapies and goals of care for older adults with advanced CKD, taking into account their multidimensional medical complexity and specific needs.",
+      "confidence": 1.0,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "treatment"
+    },
+    {
+      "id": 93,
+      "question": "In the management of patients with chronic kidney disease (CKD) and type 2 diabetes, which sodium-glucose cotransporter 2 (SGLT2) inhibitor has been shown to significantly improve renal outcomes according to recent clinical trials?",
+      "options": {
+        "A": "Dapagliflozin",
+        "B": "Canagliflozin",
+        "C": "Empagliflozin",
+        "D": "Ertugliflozin"
+      },
+      "correct_answer": "A",
+      "explanation": "Dapagliflozin has been demonstrated to improve renal outcomes in patients with chronic kidney disease, as evidenced by the results from the DAPA-CKD trial, which showed significant benefits in renal function and progression of kidney disease.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "hard",
+      "topic": "treatment"
+    },
+    {
+      "id": 94,
+      "question": "In the management of patients with end-stage liver disease, which nutritional intervention has been shown to improve outcomes by addressing sarcopenia and energy malnutrition, particularly in the context of liver cirrhosis?",
+      "options": {
+        "A": "Oral nutritional supplements (ONS)",
+        "B": "Medium-chain triglyceride (MCT) supplementation",
+        "C": "Parenteral nutrition (PN)",
+        "D": "Enteral nutrition (EN)"
+      },
+      "correct_answer": "A",
+      "explanation": "Oral nutritional supplements (ONS) have been identified as an effective intervention for improving nutritional status and addressing sarcopenia in patients with end-stage liver disease, particularly in those with liver cirrhosis. They provide essential nutrients that can help mitigate the effects of malnutrition and improve overall outcomes.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "hard",
+      "topic": "treatment"
+    },
+    {
+      "id": 95,
+      "question": "In patients with end-stage liver disease, which clinical assessment tool is most predictive of complications related to protein energy malnutrition?",
+      "options": {
+        "A": "Handgrip strength",
+        "B": "Subjective global assessment",
+        "C": "Prognostic nutritional index",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "All three assessment tools—handgrip strength, subjective global assessment, and prognostic nutritional index—are utilized to evaluate malnutrition and predict clinical outcomes in patients with liver cirrhosis, indicating their collective importance in assessing complications related to protein energy malnutrition.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "clinical presentation"
+    },
+    {
+      "id": 96,
+      "question": "In the management of patients with acute liver failure, which nutritional support approach is recommended according to the ESPEN guidelines?",
+      "options": {
+        "A": "Exclusive parenteral nutrition",
+        "B": "Early enteral nutrition",
+        "C": "Delayed nutritional support until stabilization",
+        "D": "High-protein diet without monitoring"
+      },
+      "correct_answer": "B",
+      "explanation": "The ESPEN guidelines recommend early enteral nutrition as a preferred approach in the management of patients with liver disease, including acute liver failure, to support metabolic needs and improve clinical outcomes.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "medium",
+      "topic": "treatment"
+    },
+    {
+      "id": 97,
+      "question": "Which of the following strategies is most effective in preventing the progression of chronic kidney disease (CKD) in patients at risk?",
+      "options": {
+        "A": "Increasing protein intake",
+        "B": "Regular monitoring of kidney function and blood pressure",
+        "C": "Avoiding all forms of physical activity",
+        "D": "Relying solely on medication without lifestyle changes"
+      },
+      "correct_answer": "B",
+      "explanation": "Regular monitoring of kidney function and blood pressure is crucial in preventing the progression of chronic kidney disease (CKD) as it allows for timely interventions and management of risk factors, whereas the other options may not contribute positively to kidney health.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "prevention"
+    },
+    {
+      "id": 98,
+      "question": "Which population is specifically highlighted as being at high risk for acquiring and transmitting STIs in the management of sexual health?",
+      "options": {
+        "A": "Adolescents",
+        "B": "Pregnant women",
+        "C": "Men who have sex with men (MSM)",
+        "D": "People living with HIV"
+      },
+      "correct_answer": "C",
+      "explanation": "The text explicitly identifies men who have sex with men (MSM) as a population at high risk for acquiring and transmitting STIs, making this the correct answer.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "easy",
+      "topic": "management"
+    },
+    {
+      "id": 99,
+      "question": "In the management of patients with acute liver failure, which of the following interventions is most critical to prevent acute kidney injury?",
+      "options": {
+        "A": "Administering high-dose antibiotics",
+        "B": "Ensuring adequate fluid resuscitation",
+        "C": "Initiating proton pump inhibitor therapy",
+        "D": "Reducing protein intake in the diet"
+      },
+      "correct_answer": "B",
+      "explanation": "Adequate fluid resuscitation is essential in managing acute liver failure to maintain renal perfusion and prevent acute kidney injury. While other options may have their roles, ensuring proper hydration is the most critical intervention in this context.",
+      "confidence": 0.9,
+      "type": "explicit",
+      "difficulty": "medium",
+      "topic": "management"
+    },
+    {
+      "id": 100,
+      "question": "In the context of managing chronic kidney disease (CKD), which approach is most effective in preventing the progression of the disease and improving health-related quality of life (HRQoL) for patients who opt not to pursue kidney replacement therapy (KRT)?",
+      "options": {
+        "A": "Initiating dialysis immediately upon diagnosis",
+        "B": "Providing comprehensive conservative management options",
+        "C": "Focusing solely on pharmacological interventions",
+        "D": "Encouraging patients to avoid any form of medical intervention"
+      },
+      "correct_answer": "B",
+      "explanation": "Comprehensive conservative management offers a holistic approach that includes education about KRT options, support for patients' choices, and access to resources for advanced care planning, which collectively aim to improve HRQoL and potentially slow disease progression in CKD patients who choose not to pursue KRT.",
+      "confidence": 0.9,
+      "type": "implicit",
+      "difficulty": "hard",
+      "topic": "prevention"
+    }
+  ],
+  "metadata": {
+    "generated_date": "2025-01-22 11:50:31",
+    "num_questions": 100
+  }
+}

@@ -14,3 +14,5 @@ histplot-three.png
 histplot-two.png
 /notebooks/chroma_db/76bda4a5-deea-4cb5-bf5f-ea4617ddc059
 /notebooks/chroma_db
+mcq_notebookLM/confusionMatrix.py
+mcq_notebookLM/createJson.py

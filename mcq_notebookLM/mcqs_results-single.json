@@ -1,0 +1,1402 @@
+[
+    {
+        "question": "Which enzyme is potentially more inhibited by organophosphate (OP) compounds?",
+        "options": {
+            "A": "AChE",
+            "B": "BuChE",
+            "C": "Both equally",
+            "D": "Neither"
+        },
+        "correct_answer": "B",
+        "explanation": "Butyrylcholinesterase (BuChE) is potentially more inhibited by organophosphate compounds than acetylcholinesterase (AChE) [1].",
+        "confidence": 0.9,
+        "selected_option": "A",
+        "reasoning": "The context states that organophosphorus (OP) pesticides inhibit cholinesterase enzymes irreversibly, specifically highlighting acetylcholinesterase (AChE) as being particularly affected. While butyrylcholinesterase (BuChE) is also mentioned, the emphasis on AChE suggests that it is the enzyme that is more significantly inhibited by OP compounds. Therefore, AChE is the correct answer."
+    },
+    {
+        "question": "How much does BuChE activity recover daily after OP compound elimination?",
+        "options": {
+            "A": "1%",
+            "B": "7%",
+            "C": "10%",
+            "D": "25%"
+        },
+        "correct_answer": "B",
+        "explanation": "BuChE activity recovers at a rate of approximately 7% daily after the elimination of organophosphate (OP) compounds [1].",
+        "confidence": 0.6,
+        "selected_option": "D",
+        "reasoning": "Based on general knowledge about enzyme recovery rates after the elimination of organophosphate compounds, a recovery rate of 25% is plausible and aligns with typical biological recovery processes."
+    },
+    {
+        "question": "What effect does a 1\u00b0C increase in temperature have on BuChE activity?",
+        "options": {
+            "A": "Increases by 1%",
+            "B": "Increases by 2%",
+            "C": "Increases by 4%",
+            "D": "Decreases by 4%"
+        },
+        "correct_answer": "C",
+        "explanation": "A 1\u00b0C increase in temperature increases BuChE activity by approximately 4% [1].",
+        "confidence": 1.0,
+        "selected_option": "C",
+        "reasoning": "The context states that \"BuChE activity increases by 4% per 1\u00b0C increase in temperature.\" This directly supports option C, making it the correct choice. The other options do not align with the information provided."
+    },
+    {
+        "question": "When tapering prednisone, what is a typical decrement on the alternate day method?",
+        "options": {
+            "A": "0.5 mg",
+            "B": "1 or 2 mg",
+            "C": "5 mg",
+            "D": "10 mg"
+        },
+        "correct_answer": "B",
+        "explanation": "When using the alternate day method to taper prednisone, a typical decrement is 1 or 2 mg [conversation history].",
+        "confidence": 0.9,
+        "selected_option": "B",
+        "reasoning": "The context mentions that during the tapering process, the dosage would be lowered to 24 or 23 mg on alternate days during week one, which indicates a decrement of 1 or 2 mg. This aligns with the option B, which states \"1 or 2 mg\" as a typical decrement. The other options (0.5 mg, 5 mg, and 10 mg) do not match the tapering strategy described in the context."
+    },
+    {
+        "question": "According to the tapering guide, when should a patient not lower their dose of prednisone again?",
+        "options": {
+            "A": "After one good day.",
+            "B": "After one bad day.",
+            "C": "Until a minimum of two good days in a row",
+            "D": "After two bad days"
+        },
+        "correct_answer": "C",
+        "explanation": "A patient should not lower their dose of prednisone again until they have had a minimum of two good days in a row, according to the tapering guide [conversation history].",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context suggests that a longer adjustment period is recommended at lower doses, and symptoms are milder at higher cortisol amounts. It implies that a patient should not lower their dose of prednisone again until they have experienced stability in their symptoms. The most logical interpretation is that a patient should wait until they have had a minimum of two good days in a row before considering further tapering, as this indicates a more stable condition."
+    },
+    {
+        "question": "When should ACTH testing be performed during a steroid taper?",
+        "options": {
+            "A": "At the beginning of the taper.",
+            "B": "During the final phases of the tapering program or when secondary adrenal insufficiency is suspected",
+            "C": "Every week",
+            "D": "Only if symptoms worsen"
+        },
+        "correct_answer": "B",
+        "explanation": "ACTH testing should be performed during the final phases of the tapering program or when secondary adrenal insufficiency is suspected [conversation history].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context specifies that ACTH testing should be performed during the final phases of the tapering program or when there is a suspicion of permanent secondary adrenal insufficiency. This aligns with the need to assess the restoration of the normal physiological response of the adrenal glands after tapering steroids. Other options do not align with the guidelines provided in the context."
+    },
+    {
+        "question": "When is cortisol response greatest in healthy individuals?",
+        "options": {
+            "A": "Afternoon",
+            "B": "Morning",
+            "C": "Evening",
+            "D": "No difference"
+        },
+        "correct_answer": "B",
+        "explanation": "The cortisol response is greatest in the morning in healthy individuals [conversation history].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context states that in healthy individuals, cortisol responses are greatest in the morning. This directly supports option B as the correct answer."
+    },
+    {
+        "question": "What is the recommended time for an ACTH stimulation test to minimize misdiagnosis in normal individuals?",
+        "options": {
+            "A": "Afternoon",
+            "B": "Morning",
+            "C": "Evening",
+            "D": "Any time of day"
+        },
+        "correct_answer": "B",
+        "explanation": "To minimise misdiagnosis in normal individuals, an ACTH stimulation test is recommended to be performed in the morning [conversation history].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context clearly states that it is recommended to perform the ACTH stimulation test in the morning to minimize the risk of misdiagnosis in normal individuals. This is because cortisol responses are greatest in the morning in healthy individuals, and testing at this time helps ensure accurate results."
+    },
+    {
+        "question": "What is a strong recommendation for treating actinic keratoses (AKs)?",
+        "options": {
+            "A": "PDT alone",
+            "B": "UV protection",
+            "C": "Diclofenac alone",
+            "D": "Combination therapy of PDT and Diclofenac"
+        },
+        "correct_answer": "B",
+        "explanation": "UV protection is a strong recommendation for treating actinic keratoses (AKs) [2].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context explicitly states that strong recommendations are made for using ultraviolet (UV) protection in the treatment of actinic keratoses (AKs). The other options (A, C, and D) are either conditional recommendations or not mentioned as strong recommendations in the provided text."
+    },
+    {
+        "question": "What is a conditional recommendation for treating AKs?",
+        "options": {
+            "A": "UV protection",
+            "B": "Cryosurgery",
+            "C": "PDT and Diclofenac",
+            "D": "Topical imiquimod"
+        },
+        "correct_answer": "C",
+        "explanation": "Photodynamic therapy (PDT) and diclofenac are conditionally recommended for the treatment of actinic keratoses (AKs) [2].",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context indicates that both Photodynamic Therapy (PDT) and diclofenac have conditional recommendations for the treatment of actinic keratosis (AKs). Specifically, it states that there are conditional recommendations for the use of PDT and diclofenac, which aligns with the question asking for a conditional recommendation. The other options (A, B, and D) are either strong recommendations or not specified as conditional in the provided context."
+    },
+    {
+        "question": "What is a key limitation of the systematic review for AKs?",
+        "options": {
+            "A": "Exclusion of all studies.",
+            "B": "Inclusion of non-randomised studies",
+            "C": "Limiting the review to English language randomized trials",
+            "D": "Inclusion of all study designs"
+        },
+        "correct_answer": "C",
+        "explanation": "A key limitation of the systematic review for actinic keratoses is that it was limited to English language randomised trials [2].",
+        "confidence": 0.8,
+        "selected_option": "C",
+        "reasoning": "The context mentions that the systematic review was conducted by a multidisciplinary Work Group and involved a systematic search of the literature. However, it does not explicitly state that the review was limited to English language randomized trials. Limiting a systematic review to only English language studies can be a significant limitation, as it may exclude relevant research published in other languages. Therefore, option C is a plausible key limitation of the systematic review for AKs."
+    },
+    {
+        "question": "What is the purpose of PICO in clinical guidelines?",
+        "options": {
+            "A": "To confuse the process",
+            "B": "To make recommendations shorter",
+            "C": "To formulate clinical questions in a structured way",
+            "D": "To rate the importance of outcomes"
+        },
+        "correct_answer": "C",
+        "explanation": "The purpose of PICO (Population, Intervention, Comparator, Outcome) in clinical guidelines is to formulate clinical questions in a structured way [3].",
+        "confidence": 1.0,
+        "selected_option": "C",
+        "reasoning": "The context clearly states that the first development step of the guideline involved the formulation of PICO questions to address specific patient groups or problems, interventions, compare different therapies, and be outcome-related. This indicates that the purpose of PICO is to formulate clinical questions in a structured way, which aligns with option C. The other options do not accurately reflect the purpose of PICO as described in the context."
+    },
+    {
+        "question": "What is the initial management strategy for uncomplicated acute bacterial rhinosinusitis (ABRS)?",
+        "options": {
+            "A": "Antibiotic therapy",
+            "B": "Surgical intervention",
+            "C": "Watchful waiting without antibiotics",
+            "D": "Immediate referral to specialist"
+        },
+        "correct_answer": "C",
+        "explanation": "The initial management strategy for uncomplicated acute bacterial rhinosinusitis (ABRS) is watchful waiting without antibiotics [4].",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context states that clinicians should either offer watchful waiting (without antibiotics) or prescribe initial antibiotic therapy for adults with uncomplicated ABRS. This indicates that both options A and C are valid initial management strategies, but since the question specifically asks for the initial management strategy, watchful waiting is explicitly mentioned as an option. Therefore, C is the most appropriate answer as it reflects the recommendation for a non-invasive approach before considering antibiotics."
+    },
+    {
+        "question": "What is the recommended timeframe for lack of improvement before reassessment of ABRS is warranted?",
+        "options": {
+            "A": "3 days",
+            "B": "7 days",
+            "C": "10 days",
+            "D": "14 days"
+        },
+        "correct_answer": "B",
+        "explanation": "Reassessment of acute bacterial rhinosinusitis (ABRS) is warranted if there is a lack of improvement after 7 days [4].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context clearly states that initial treatment failure of acute bacterial rhinosinusitis (ABRS) occurs when the patient worsens or fails to improve by 7 days after diagnosis. This timeframe is emphasized as a cut-point to avoid premature conclusions about treatment failure. Therefore, the recommended timeframe for lack of improvement before reassessment is 7 days."
+    },
+    {
+        "question": "What is the primary focus of systematic reviews when updating clinical guidelines for sinusitis?",
+        "options": {
+            "A": "Expert opinion",
+            "B": "Randomized controlled trials and systematic reviews",
+            "C": "Case studies",
+            "D": "Observational studies"
+        },
+        "correct_answer": "B",
+        "explanation": "When updating clinical guidelines for sinusitis, the primary focus of systematic reviews is on randomised controlled trials and systematic reviews [4].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context explicitly states that a systematic literature search was performed to identify systematic reviews, clinical practice guidelines, and randomized controlled trials (RCTs) published since the prior guideline. It emphasizes that systematic reviews were prioritized and included if they met specific quality criteria. This indicates that the primary focus of updating clinical guidelines for sinusitis is on evidence derived from randomized controlled trials and systematic reviews, rather than expert opinion, case studies, or observational studies."
+    },
+    {
+        "question": "According to the Adult Sinusitis guideline, what is a quality improvement opportunity?",
+        "options": {
+            "A": "Performing more surgeries.",
+            "B": "Prescribing more antibiotics.",
+            "C": "Defining realistic expectations for clinical response and when reassessment is needed",
+            "D": "Reducing patient education"
+        },
+        "correct_answer": "C",
+        "explanation": "According to the Adult Sinusitis guideline, a quality improvement opportunity is defining realistic expectations for clinical response and when reassessment is needed [5].",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context emphasizes the importance of improving diagnostic accuracy, promoting appropriate management, and enhancing patient education and counseling. Defining realistic expectations for clinical response and when reassessment is needed aligns with the goal of improving patient management and outcomes, making it a quality improvement opportunity. The other options either contradict the guidelines' intent (A and B) or go against the emphasis on patient education (D)."
+    },
+    {
+        "question": "What is the purpose of the American Epilepsy Society guidelines on status epilepticus?",
+        "options": {
+            "A": "To confuse people",
+            "B": "To make more money",
+            "C": "To provide evidence-based recommendations for management",
+            "D": "To sell more anticonvulsant drugs."
+        },
+        "correct_answer": "C",
+        "explanation": "The purpose of the American Epilepsy Society guidelines on status epilepticus is to provide evidence-based recommendations for management [6].",
+        "confidence": 1.0,
+        "selected_option": "C",
+        "reasoning": "The context clearly states that the goal of the current guideline is to provide evidence-based answers to efficacy, safety, and tolerability questions regarding the management of status epilepticus. This aligns directly with option C, which states that the purpose is to provide evidence-based recommendations for management. The other options do not reflect the intent or purpose of the guidelines as described in the context."
+    },
+    {
+        "question": "According to the Epilepsy guideline, which is NOT a question addressed in this document?",
+        "options": {
+            "A": "Which anticonvulsants are effective as initial therapy?",
+            "B": "What adverse events are associated with anticonvulsant use?",
+            "C": "Which is the most effective benzodiazepine?",
+            "D": "What is the best type of seizure to have?"
+        },
+        "correct_answer": "D",
+        "explanation": "The Epilepsy guideline addresses the efficacy of anticonvulsants, associated adverse events and which benzodiazepine is most effective. However, it does not address what is the best type of seizure to have [7].",
+        "confidence": 1.0,
+        "selected_option": "D",
+        "reasoning": "The context explicitly states that the guideline does not address the merits of various definitions of status epilepticus, treatment of refractory status epilepticus, treatment of neonatal status epilepticus, and other specific therapeutic approaches. However, it does not mention anything about the \"best type of seizure to have,\" which is not a relevant or appropriate question in the context of treatment guidelines. Therefore, option D is the only one that is not addressed in the document."
+    },
+    {
+        "question": "What grading system is used in the ESPEN guidelines for clinical nutrition in liver disease?",
+        "options": {
+            "A": "GRADE",
+            "B": "SIGN (Scottish Intercollegiate Guidelines Network)",
+            "C": "AWMF",
+            "D": "KDIGO"
+        },
+        "correct_answer": "B",
+        "explanation": "The ESPEN guidelines for clinical nutrition in liver disease use the SIGN (Scottish Intercollegiate Guidelines Network) grading system [8].",
+        "confidence": 0.8,
+        "selected_option": "A",
+        "reasoning": "The GRADE system is a well-established grading system used in many clinical guidelines, including those related to nutrition and liver disease. Given the context of the ESPEN guidelines, it is the most appropriate choice among the options provided."
+    },
+    {
+        "question": "What is the first step in developing the ESPEN guideline on nutrition in liver disease?",
+        "options": {
+            "A": "Literature search",
+            "B": "Formulation of PICO questions",
+            "C": "Allocation of studies to different levels of evidence",
+            "D": "Creation of recommendations"
+        },
+        "correct_answer": "B",
+        "explanation": "The first step in developing the ESPEN guideline on nutrition in liver disease is the formulation of PICO questions [8].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context explicitly states that the first development step of the guideline was the formulation of so-called PICO questions. This indicates that before any literature search, allocation of studies, or creation of recommendations, the formulation of PICO questions is the initial step taken in the guideline development process."
+    },
+    {
+        "question": "What is a key inclusion criteria for articles in the ESPEN liver disease guideline search?",
+        "options": {
+            "A": "Papers written in Spanish",
+            "B": "Papers written in English",
+            "C": "Case studies",
+            "D": "Any study design."
+        },
+        "correct_answer": "B",
+        "explanation": "A key inclusion criteria for articles in the ESPEN liver disease guideline search is that they are written in English [9].",
+        "confidence": 0.7,
+        "selected_option": "B",
+        "reasoning": "The context does not explicitly mention the inclusion criteria for articles in the ESPEN liver disease guideline search. However, it is common for guidelines to prioritize papers written in English due to the broader accessibility and dissemination of research in that language. The other options either specify languages that are less common in scientific literature (A), focus on a specific type of study (C), or are too broad (D) without any specific mention in the context. Therefore, B is the most reasonable choice based on typical practices in guideline development."
+    },
+    {
+        "question": "What are some of the developments that have positively influenced the prognosis for people with CKD?",
+        "options": {
+            "A": "Increase in CKD cases.",
+            "B": "Refinement of GFR evaluation and novel treatments",
+            "C": "Fewer risk prediction equations.",
+            "D": "Decrease in medication management options."
+        },
+        "correct_answer": "B",
+        "explanation": "Refinement of GFR evaluation and novel treatments have positively influenced the prognosis for people with CKD [10].",
+        "confidence": 0.9,
+        "selected_option": "B",
+        "reasoning": "The context highlights the importance of refining GFR evaluation and the implementation of effective care models that support primary care providers, which can lead to better management of CKD. It also mentions the significance of early detection and lifestyle changes, which are facilitated by improved evaluation methods. This indicates that advancements in GFR evaluation and the introduction of novel treatments positively influence the prognosis for people with CKD."
+    },
+    {
+        "question": "According to KDIGO, what is the initial test for GFR evaluation?",
+        "options": {
+            "A": "Cystatin C",
+            "B": "Creatinine-based eGFR (eGFRcr)",
+            "C": "mGFR",
+            "D": "Proteinuria"
+        },
+        "correct_answer": "B",
+        "explanation": "According to KDIGO, the initial test for GFR evaluation is creatinine-based eGFR (eGFRcr) [11].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context clearly states that the initial test for the evaluation of GFR should be creatinine-based estimated GFR (eGFRcr). This is emphasized as the first method to evaluate GFR, making it the correct choice. Other options, such as cystatin C, mGFR, and proteinuria, are mentioned as subsequent or supportive tests, not as the initial test."
+    },
+    {
+        "question": "When is it recommended to measure cystatin C for GFR evaluation?",
+        "options": {
+            "A": "As a first test always.",
+            "B": "When eGFRcr is expected to be inaccurate",
+            "C": "Never.",
+            "D": "Only in children."
+        },
+        "correct_answer": "B",
+        "explanation": "It is recommended to measure cystatin C for GFR evaluation when eGFRcr is expected to be inaccurate [12].",
+        "confidence": 0.9,
+        "selected_option": "B",
+        "reasoning": "The context indicates that cystatin C should be measured when eGFRcr (estimated GFR based on creatinine) is expected to be inaccurate. This is particularly relevant in cases where there are non-GFR determinants affecting creatinine levels, such as low muscle mass or certain medications. Therefore, option B aligns with the recommendations provided in the context."
+    },
+    {
+        "question": "What is considered the most accurate estimate of GFR according to KDIGO?",
+        "options": {
+            "A": "eGFRcr",
+            "B": "eGFRcys",
+            "C": "eGFRcr-cys",
+            "D": "ACR"
+        },
+        "correct_answer": "C",
+        "explanation": "According to KDIGO, eGFRcr-cys (creatinine and cystatin C-based estimated GFR) is considered the most accurate estimate of GFR [11].",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context indicates that the combination of creatinine and cystatin C (eGFRcr-cys) provides a more accurate estimate of GFR compared to using either creatinine (eGFRcr) or cystatin C (eGFRcys) alone. It mentions that the performance of eGFRcr-cys computed from different equations is more similar and that using eGFRcr-cys simplifies the selection of the equation. Therefore, eGFRcr-cys is considered the most accurate estimate of GFR according to KDIGO."
+    },
+    {
+        "question": "What is an important consideration when implementing new eGFR equations?",
+        "options": {
+            "A": "Ignoring the impact on patients.",
+            "B": "Only updating laboratory procedures",
+            "C": "Education for healthcare providers and people with CKD",
+            "D": "No cost"
+        },
+        "correct_answer": "C",
+        "explanation": "An important consideration when implementing new eGFR equations is education for healthcare providers and people with CKD [10].",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context emphasizes the importance of using validated equations for estimating GFR and highlights the need for collaboration among national kidney societies and laboratory organizations. It suggests that education for healthcare providers and patients with CKD is crucial for the successful implementation of new eGFR equations, ensuring that they understand the changes and their implications. This aligns with the need for informed decision-making in clinical care and public health."
+    },
+    {
+        "question": "What is a key consideration for comparing different GFR equations?",
+        "options": {
+            "A": "How easy they are to calculate.",
+            "B": "How many people were in the study",
+            "C": "Systematic error (bias), precision, and accuracy",
+            "D": "Only the ease of use."
+        },
+        "correct_answer": "C",
+        "explanation": "When comparing different GFR equations, key considerations include systematic error (bias), precision, and accuracy [13].",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context emphasizes the importance of using GFR estimating equations that are validated in the population of interest and highlights the need to consider systematic error (bias), precision, and accuracy when comparing different equations. This aligns with the recommendation to use equations that provide the most accurate estimates of GFR, which is crucial for clinical care, research, and public health. The other options focus on ease of calculation or sample size, which are not the primary considerations mentioned in the context."
+    },
+    {
+        "question": "What does ACR stand for?",
+        "options": {
+            "A": "Acute creatinine ratio.",
+            "B": "Albumin-to-creatinine ratio",
+            "C": "Activated clotting ratio.",
+            "D": "Amylase-creatinine ratio."
+        },
+        "correct_answer": "B",
+        "explanation": "ACR stands for albumin-to-creatinine ratio [14].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context explicitly mentions \"albumin-to-creatinine ratio (ACR)\" multiple times, indicating that ACR stands for Albumin-to-creatinine ratio. The other options do not match this definition and are not supported by the context provided."
+    },
+    {
+        "question": "What is a notable characteristic of changes in albuminuria within an individual?",
+        "options": {
+            "A": "No variability",
+            "B": "Substantial variability and fluctuations",
+            "C": "Always stays the same",
+            "D": "A gradual increase"
+        },
+        "correct_answer": "B",
+        "explanation": "A notable characteristic of changes in albuminuria within an individual is substantial variability and fluctuations [15].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context clearly states that changes in albuminuria within an individual have \"substantial variability, with large fluctuations expected,\" indicating that variability is a notable characteristic of albuminuria changes. This directly supports option B."
+    },
+    {
+        "question": "According to KDIGO, how much of a reduction in ACR is considered consistent with random fluctuation?",
+        "options": {
+            "A": "10%",
+            "B": "50%",
+            "C": "75%",
+            "D": "100%"
+        },
+        "correct_answer": "B",
+        "explanation": "According to KDIGO, a 50% reduction in ACR is considered consistent with random fluctuation [15].",
+        "confidence": 0.7,
+        "selected_option": "A",
+        "reasoning": "A 10% reduction is the smallest percentage and is likely to be within the range of random fluctuation, while larger reductions (50%, 75%, 100%) would exceed typical variability and warrant evaluation."
+    },
+    {
+        "question": "According to KDIGO, what should be considered when assessing kidney functional reserve?",
+        "options": {
+            "A": "Only people with CKD",
+            "B": "Demographic characteristics including birthweight",
+            "C": "Only at low GFR",
+            "D": "Only after AKI"
+        },
+        "correct_answer": "B",
+        "explanation": "According to KDIGO, when assessing kidney functional reserve, demographic characteristics including birthweight should be considered [15].",
+        "confidence": 0.9,
+        "selected_option": "B",
+        "reasoning": "The context explicitly states that kidney functional reserve should be evaluated by considering demographic characteristics, including birthweight, in people with and without CKD of different etiologies. This indicates that a comprehensive assessment of kidney functional reserve involves a broader population than just those with CKD. The other options are too restrictive or do not align with the guidelines provided."
+    },
+    {
+        "question": "According to KDIGO, when should validated risk prediction equations be used?",
+        "options": {
+            "A": "To confuse",
+            "B": "To personalize care plans and enable discussions about therapy",
+            "C": "Only in the lab",
+            "D": "If data are not available"
+        },
+        "correct_answer": "B",
+        "explanation": "According to KDIGO, validated risk prediction equations should be used to personalize care plans and enable discussions about therapy [16].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context clearly states that validated risk prediction equations should be used to \"further personalize care plans for people with CKD and enable discussions about the benefits and harms of disease-modifying therapy.\" This aligns directly with option B, making it the correct choice."
+    },
+    {
+        "question": "What is a key component of medication review for people with CKD?",
+        "options": {
+            "A": "Only prescribing as many medications as possible.",
+            "B": "Ignoring patient concerns.",
+            "C": "Evaluating whether each medication is necessary or preferred",
+            "D": "Ignoring drug interactions."
+        },
+        "correct_answer": "C",
+        "explanation": "A key component of medication review for people with CKD is evaluating whether each medication is necessary or preferred [17].",
+        "confidence": 1.0,
+        "selected_option": "C",
+        "reasoning": "The context emphasizes the importance of performing a thorough medication review for individuals with CKD, which includes evaluating whether each medication is necessary or preferred. This aligns with the goal of minimizing medication-related problems and ensuring appropriate treatment. The other options either promote poor practices or disregard important aspects of patient care."
+    },
+    {
+        "question": "What tool has been evaluated for use in adults and children with CKD?",
+        "options": {
+            "A": "SF-36",
+            "B": "RAND-36",
+            "C": "PROMIS",
+            "D": "TRAQ"
+        },
+        "correct_answer": "C",
+        "explanation": "PROMIS (Patient-Reported Outcomes Measurement Information System) has been evaluated for use in adults and children with CKD [18, 19].",
+        "confidence": 1.0,
+        "selected_option": "C",
+        "reasoning": "The context specifically states that the Patient-Reported Outcomes Measurement Information System (PROMIS) tool has been evaluated in both adults and children with chronic kidney disease (CKD), demonstrating sufficient validity and reliability. The other options (SF-36 and RAND-36) are mentioned as tools but do not indicate evaluation in both populations, and TRAQ is not mentioned at all in the context."
+    },
+    {
+        "question": "What is an important component of transition from pediatric to adult care in CKD?",
+        "options": {
+            "A": "Transferring at an unstable time",
+            "B": "Ignoring patient readiness",
+            "C": "Preparing young people for full autonomy with medical visits",
+            "D": "Never allowing visits before transfer"
+        },
+        "correct_answer": "C",
+        "explanation": "An important component of transition from pediatric to adult care in CKD is preparing young people for full autonomy with medical visits [20].",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context emphasizes the importance of preparing young people for the transition to adult care, which includes allowing them to visit the clinic before transfer and assessing their readiness. This preparation is crucial for fostering autonomy in medical visits, as it helps young patients become more comfortable and engaged in their own care. The other options either contradict the recommendations (A, B, D) or do not align with the goal of facilitating a smooth transition."
+    },
+    {
+        "question": "What is a treatment for surges of intracranial pressure (ICP) in acute liver failure?",
+        "options": {
+            "A": "Hypothermia alone",
+            "B": "Indomethacin alone",
+            "C": "Mannitol or hypertonic saline",
+            "D": "Steroids"
+        },
+        "correct_answer": "C",
+        "explanation": "Mannitol or hypertonic saline is a treatment for surges of intracranial pressure (ICP) in acute liver failure [conversation history].",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context discusses the management of intracranial pressure (ICP) in patients with acute liver failure. Mannitol and hypertonic saline are well-established treatments for reducing ICP due to their osmotic effects, which help draw fluid out of the brain and reduce swelling. The other options (hypothermia, indomethacin, and steroids) are not standard treatments specifically for surges in ICP in this context."
+    },
+    {
+        "question": "What is recommended to monitor when using hyperventilation to control ICP?",
+        "options": {
+            "A": "Arterial oxygen saturation",
+            "B": "Reverse jugular venous saturation",
+            "C": "Heart rate",
+            "D": "Blood pressure"
+        },
+        "correct_answer": "B",
+        "explanation": "When using hyperventilation to control intracranial pressure (ICP), it is recommended to monitor reverse jugular venous saturation [conversation history].",
+        "confidence": 0.9,
+        "selected_option": "A",
+        "reasoning": "Hyperventilation is often used to control intracranial pressure (ICP) by inducing respiratory alkalosis, which can lead to vasoconstriction and a decrease in cerebral blood flow (CBF). Monitoring arterial oxygen saturation is crucial during this process to ensure that the patient is not becoming hypoxic, as hyperventilation can reduce carbon dioxide levels and potentially lead to decreased oxygen delivery to the brain. The other options, while important in general patient monitoring, do not specifically relate to the effects of hyperventilation on ICP management."
+    },
+    {
+        "question": "What is a potential research area for the future in acute liver failure?",
+        "options": {
+            "A": "Accurate non-invasive assessment of ICP",
+            "B": "Only liver biopsy",
+            "C": "More liver surgeries",
+            "D": "Invasive testing only"
+        },
+        "correct_answer": "A",
+        "explanation": "A potential research area for the future in acute liver failure is the accurate non-invasive assessment of ICP [conversation history].",
+        "confidence": 0.9,
+        "selected_option": "A",
+        "reasoning": "The context discusses various aspects of acute liver failure, including the need for accurate assessments and therapies. The mention of intracranial hypertension (ICP) in the context of fulminant hepatic failure suggests that non-invasive methods for assessing ICP could be a valuable area for future research, as current methods may be invasive and carry risks. The other options (B, C, D) either focus on invasive procedures or do not align with the need for advancements in non-invasive techniques, which are crucial for improving patient outcomes."
+    },
+    {
+        "question": "What is a risk factor for late-onset infection following glaucoma filtration surgery?",
+        "options": {
+            "A": "Old age",
+            "B": "Being healthy",
+            "C": "Various surgical factors",
+            "D": "No known risk factors"
+        },
+        "correct_answer": "C",
+        "explanation": "Various surgical factors are a risk factor for late-onset infection following glaucoma filtration surgery [21].",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context mentions that there are risk factors for late-onset infection following glaucoma filtration surgery, specifically citing various surgical factors as a contributing element. This indicates that surgical factors are indeed a known risk factor for such infections. The other options do not align with the context provided."
+    },
+    {
+        "question": "What is the purpose of using the PICO format when developing guidelines for rheumatoid arthritis (RA)?",
+        "options": {
+            "A": "To confuse clinicians",
+            "B": "To structure clinical questions for review",
+            "C": "To make guidelines longer.",
+            "D": "To make the process more expensive."
+        },
+        "correct_answer": "B",
+        "explanation": "The purpose of using the PICO format when developing guidelines for rheumatoid arthritis (RA) is to structure clinical questions for review [22].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The PICO format is specifically designed to structure clinical questions in a clear and systematic way, which aids in the development of guidelines by ensuring that all relevant aspects of the clinical question are considered. This is supported by the context, which mentions that PICO questions were developed to guide the systematic literature review and the formulation of recommendations."
+    },
+    {
+        "question": "What is considered a critical study outcome for most PICO questions when making RA guidelines?",
+        "options": {
+            "A": "Quality of life.",
+            "B": "Radiographic progression.",
+            "C": "Disease activity",
+            "D": "Adverse events"
+        },
+        "correct_answer": "C",
+        "explanation": "Disease activity is considered a critical study outcome for most PICO questions when making RA guidelines [22].",
+        "confidence": 1.0,
+        "selected_option": "C",
+        "reasoning": "The context explicitly states that the core team defined the critical study outcome as disease activity for most PICO questions. This indicates that disease activity is the primary focus when developing RA guidelines, making it the correct answer."
+    },
+    {
+        "question": "Which of the following was not a new topic addressed in the updated RA guidelines?",
+        "options": {
+            "A": "Methotrexate administration",
+            "B": "Use of rituximab in patients with hypogammaglobulinemia",
+            "C": "Recommendations for patients with hepatitis C",
+            "D": "Treatment of RA in patients with NTM lung disease"
+        },
+        "correct_answer": "C",
+        "explanation": "The updated RA guidelines included recommendations for methotrexate administration, rituximab in patients with hypogammaglobulinemia and RA in patients with NTM lung disease, but not recommendations for patients with hepatitis C [23].",
+        "confidence": 0.8,
+        "selected_option": "A",
+        "reasoning": "The context does not provide specific information about new topics addressed in the updated RA guidelines, but it does mention that recommendations were not provided for subgroups defined by early versus late RA disease duration and that current disease activity, prior therapies, and comorbidities are more relevant for treatment decisions. Methotrexate is a well-established treatment for RA and is likely to have been addressed in previous guidelines, including the 2015 guideline. Therefore, it is reasonable to conclude that methotrexate administration was not a new topic in the updated guidelines."
+    },
+    {
+        "question": "According to the RA guidelines, what is a key area for future research?",
+        "options": {
+            "A": "Stopping all DMARDs.",
+            "B": "Optimal target and method of disease activity assessment for TTT",
+            "C": "Ignoring methotrexate use.",
+            "D": "Not using TTT"
+        },
+        "correct_answer": "B",
+        "explanation": "According to the RA guidelines, a key area for future research is the optimal target and method of disease activity assessment for TTT (Treat to Target) [24].",
+        "confidence": 0.9,
+        "selected_option": "B",
+        "reasoning": "The context emphasizes the importance of disease activity assessment in treatment decisions for rheumatoid arthritis (RA). It mentions that current disease activity, prior therapies, and comorbidities are more relevant than disease duration for treatment decisions. This suggests that understanding the optimal target and method of disease activity assessment is crucial for improving treatment outcomes, making it a key area for future research. The other options either suggest actions that are not aligned with current treatment guidelines or ignore important aspects of RA management."
+    },
+    {
+        "question": "Which is NOT a search database used to find evidence for the diabetes guidelines?",
+        "options": {
+            "A": "PubMed",
+            "B": "Medline",
+            "C": "CINAHL",
+            "D": "EMBASE"
+        },
+        "correct_answer": "C",
+        "explanation": "The search databases used to find evidence for the diabetes guidelines were PubMed, Medline, and EMBASE. CINAHL was not used [25].",
+        "confidence": 1.0,
+        "selected_option": "C",
+        "reasoning": "The context explicitly mentions that the databases searched for evidence in the development of the diabetes guidelines included PubMed, Medline, and EMBASE. CINAHL is not mentioned as one of the databases used, indicating that it was not part of the search process for the guidelines."
+    },
+    {
+        "question": "What is the global estimated incidence of curable STIs per day?",
+        "options": {
+            "A": "100,000",
+            "B": "More than a million",
+            "C": "10,000",
+            "D": "100"
+        },
+        "correct_answer": "B",
+        "explanation": "The global estimated incidence of curable STIs is more than a million per day [26].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context states that \"more than a million curable STIs are acquired every day,\" which directly supports option B. The other options (A, C, D) are significantly lower than the stated figure and do not align with the information provided."
+    },
+    {
+        "question": "What is the second most common bacterial STI?",
+        "options": {
+            "A": "Syphilis",
+            "B": "Chlamydia",
+            "C": "Gonorrhoea",
+            "D": "Trichomoniasis"
+        },
+        "correct_answer": "C",
+        "explanation": "Gonorrhoea is the second most common bacterial STI [26].",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context discusses the treatment of N. gonorrhoeae and mentions the changing epidemiology of STIs, indicating that gonorrhea is a significant bacterial STI. While chlamydia is also a common bacterial STI, it is generally recognized that gonorrhea is the second most common bacterial STI after chlamydia. The context does not provide specific statistics but aligns with established knowledge in the field."
+    },
+    {
+        "question": "What is the focus of Phase 1 of the WHO plan to update STI guidelines?",
+        "options": {
+            "A": "STI prevention",
+            "B": "Treatment of specific STIs",
+            "C": "Laboratory diagnosis",
+            "D": "Screening"
+        },
+        "correct_answer": "B",
+        "explanation": "Phase 1 of the WHO plan to update STI guidelines focuses on the treatment of specific STIs [26].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context explicitly states that Phase 1 of the WHO plan focuses on \"treatment recommendations for specific STIs\" and lists specific infections such as Chlamydia trachomatis, Neisseria gonorrhoeae, HSV-2, and Treponema pallidum. This indicates that the primary focus is on the treatment of these specific STIs rather than prevention, laboratory diagnosis, or screening."
+    },
+    {
+        "question": "What was a key factor when prioritizing outcomes for the gonorrhoea treatment guidelines?",
+        "options": {
+            "A": "Cost only",
+            "B": "Expert opinion only",
+            "C": "Clinical and microbiological cure and adverse effects",
+            "D": "Patient opinion only."
+        },
+        "correct_answer": "C",
+        "explanation": "A key factor when prioritizing outcomes for the gonorrhoea treatment guidelines was clinical and microbiological cure and adverse effects [27].",
+        "confidence": 1.0,
+        "selected_option": "C",
+        "reasoning": "The context indicates that the Guideline Development Group (GDG) prioritized questions and outcomes related to the treatment of gonococcal infections, which included considerations of clinical and microbiological cure as well as adverse effects. This suggests that the prioritization was based on a comprehensive evaluation of treatment effectiveness and safety, rather than solely on cost, expert opinion, or patient opinion."
+    },
+    {
+        "question": "In the context of gonorrhoea treatment, what does AMR stand for?",
+        "options": {
+            "A": "Anti-Metabolic Resistance",
+            "B": "Antimicrobial Resistance",
+            "C": "Acute Myocardial Reaction",
+            "D": "Autoimmune-Mediated Response"
+        },
+        "correct_answer": "B",
+        "explanation": "In the context of gonorrhoea treatment, AMR stands for Antimicrobial Resistance [28].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context explicitly mentions \"antimicrobial resistance (AMR)\" multiple times in relation to the treatment of gonorrhoea, indicating that AMR stands for Antimicrobial Resistance. The other options do not relate to the context of STIs or their treatment."
+    },
+    {
+        "question": "What is a specific research need for gonorrhoea?",
+        "options": {
+            "A": "Ignore medication options",
+            "B": "Research into current and new medicine options",
+            "C": "Use of one drug therapy",
+            "D": "Only use old medicine options"
+        },
+        "correct_answer": "B",
+        "explanation": "A specific research need for gonorrhoea is research into current and new medicine options [28].",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context clearly states that there is a need for research into current and new medicine options for treating gonorrhoea, particularly in light of increasing antimicrobial resistance. This aligns directly with option B, which emphasizes the necessity of exploring both existing and novel treatment options. The other options either suggest ignoring medication options or relying solely on outdated treatments, which contradicts the need for updated research and strategies."
+    },
+    {
+        "question": "What is the normal range for serum cortisol levels at 8:00 am in adults?",
+        "options": {
+            "A": "5.0 to 15 ug/dL",
+            "B": "8.0 to 19 ug/dL",
+            "C": "10.0 to 25 ug/dL",
+            "D": "12.0 to 30 ug/dL"
+        },
+        "correct_answer": "B",
+        "explanation": "The normal range for cortisol in adults is 8.0 to 19 ug/dL at 8:00 am.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context specifies that the normal range for serum cortisol levels at 8:00 am in adults is 8.0 to 19 ug/dL. This directly matches option B, making it the correct answer. The other options do not align with the provided reference range."
+    },
+    {
+        "question": "What are the two main types of ACTH stimulation tests?",
+        "options": {
+            "A": "Standard-dose and high-dose",
+            "B": "Low-dose and high-dose",
+            "C": "Short-term and long-term",
+            "D": "Intramuscular and intravenous"
+        },
+        "correct_answer": "B",
+        "explanation": "The two main types of ACTH stimulation tests are low-dose and high-dose.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context clearly states that there are two main types of ACTH stimulation tests: the low-dose ACTH test and the high-dose ACTH test. The high-dose test involves a 250 mcg cosyntropin injection, while the low-dose test involves a 1 mcg injection. The other options do not accurately reflect the types of tests described in the context."
+    },
+    {
+        "question": "Which route of administration is typically used for the low-dose ACTH stimulation test?",
+        "options": {
+            "A": "Intramuscular (IM)",
+            "B": "Subcutaneous (SC)",
+            "C": "Intravenous (IV)",
+            "D": "Oral"
+        },
+        "correct_answer": "C",
+        "explanation": "The low-dose ACTH stimulation test is typically performed via IV injection.",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context indicates that the low-dose ACTH stimulation test has not been evaluated after intramuscular (IM) injection and may not provide valid results by this route. It implies that the low-dose test is typically administered intravenously (IV) to ensure valid results. Therefore, the correct route of administration for the low-dose ACTH stimulation test is IV."
+    },
+    {
+        "question": "What is a potential advantage of the low-dose ACTH stimulation test over the high-dose test?",
+        "options": {
+            "A": "It is more convenient.",
+            "B": "It is less expensive.",
+            "C": "It can detect partial adrenal insufficiency.",
+            "D": "It is more accurate in all cases."
+        },
+        "correct_answer": "C",
+        "explanation": "The low-dose test can detect partial adrenal insufficiency that the high-dose test might miss.",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context specifically mentions that the low-dose ACTH stimulation test can detect partial adrenal insufficiency, which may be missed by the standard high-dose test. This indicates a clear advantage of the low-dose test in identifying certain conditions related to adrenal function. The other options do not have supporting evidence in the context provided."
+    },
+    {
+        "question": "What is the typical serum cortisol concentration considered normal after a low-dose ACTH stimulation test?",
+        "options": {
+            "A": "\u226516 mcg/dL",
+            "B": "\u226518 mcg/dL",
+            "C": "\u226520 mcg/dL",
+            "D": "\u226522 mcg/dL"
+        },
+        "correct_answer": "B",
+        "explanation": "Current criteria for normal adrenal function include a serum cortisol concentration of \u226518 mcg/dL after low-dose testing.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context states that the current criteria used to indicate normal adrenal function after a low-dose ACTH test is a minimum serum cortisol concentration of \u226518 mcg/dL. This directly supports option B as the correct answer. Option A (\u226516 mcg/dL) is applicable only for high-dose cosyntropin administered intramuscularly, while options C (\u226520 mcg/dL) and D (\u226522 mcg/dL) exceed the stated normal range."
+    },
+    {
+        "question": "Why is it important to obtain both baseline and post-ACTH cortisol samples?",
+        "options": {
+            "A": "To reduce the risk of side effects",
+            "B": "To ensure proper administration of cosyntropin",
+            "C": "For accurate assessment of adrenal function",
+            "D": "To compare with historical data"
+        },
+        "correct_answer": "C",
+        "explanation": "It's important to obtain both baseline and post-ACTH cortisol samples for accurate assessment of adrenal function.",
+        "confidence": 1.0,
+        "selected_option": "C",
+        "reasoning": "The context clearly states that it is important to obtain both baseline and post-ACTH cortisol samples for accurate assessment of adrenal function. This indicates that measuring both levels is crucial to evaluate how the adrenal glands respond to ACTH stimulation and to determine if there is any adrenal insufficiency."
+    },
+    {
+        "question": "What is a major challenge in interpreting cortisol results?",
+        "options": {
+            "A": "Patient non-compliance",
+            "B": "Variability in cortisol assays",
+            "C": "Incorrect dosage of cosyntropin",
+            "D": "Limited availability of tests"
+        },
+        "correct_answer": "B",
+        "explanation": "Variability in cortisol assays can create challenges in interpreting results, due to different measurement methods.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context highlights that variability in cortisol assays creates significant challenges in interpreting cortisol results, as different assays can yield different results, leading to confusion in determining a normal response to ACTH. This is supported by the mention of a positive bias in results from various assays compared to a reference value, which can affect diagnosis and interpretation."
+    },
+    {
+        "question": "What is the primary use of the Glomerular Filtration Rate (GFR)?",
+        "options": {
+            "A": "To measure blood pressure",
+            "B": "To assess adrenal function",
+            "C": "To measure kidney function",
+            "D": "To assess liver function"
+        },
+        "correct_answer": "C",
+        "explanation": "GFR is a key measure of kidney function used to detect and stage kidney disease.",
+        "confidence": 1.0,
+        "selected_option": "C",
+        "reasoning": "The context clearly states that GFR (Glomerular Filtration Rate) is specifically used to assess kidney function, as it is a measure of the kidneys' ability to filter waste from the blood. Other options pertain to functions unrelated to the kidneys."
+    },
+    {
+        "question": "What is the initial test for assessing GFR?",
+        "options": {
+            "A": "Urine protein test",
+            "B": "Serum creatinine (SCr)",
+            "C": "Kidney biopsy",
+            "D": "Ultrasound"
+        },
+        "correct_answer": "B",
+        "explanation": "Initial assessment of GFR uses serum creatinine (SCr) and an estimating equation.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context clearly states that the initial test for the evaluation of GFR is creatinine-based estimated GFR (eGFRcr), which is derived from serum creatinine (SCr) measurements. This indicates that serum creatinine is the primary test used for initial assessment of GFR. The other options do not serve as initial tests for GFR evaluation."
+    },
+    {
+        "question": "What are the different ways to calculate estimated GFR (eGFR)?",
+        "options": {
+            "A": "Using serum creatinine alone (eGFRcr), cystatin C alone (eGFRcys), or both (eGFRcr-cys)",
+            "B": "Using age, gender, and weight",
+            "C": "Using blood glucose levels",
+            "D": "Using blood pressure readings"
+        },
+        "correct_answer": "A",
+        "explanation": "Estimated GFR (eGFR) can be calculated using serum creatinine alone (eGFRcr), cystatin C alone (eGFRcys) or both (eGFRcr-cys).",
+        "confidence": 1.0,
+        "selected_option": "A",
+        "reasoning": "The context clearly states that the initial test for evaluating GFR is creatinine-based estimated GFR (eGFRcr). It also mentions that if a more accurate assessment is needed, cystatin C should be measured, leading to the use of both creatinine and cystatin C to estimate GFR (eGFRcr-cys). Therefore, option A accurately reflects the different ways to calculate estimated GFR as described in the context."
+    },
+    {
+        "question": "When might eGFRcr be inaccurate?",
+        "options": {
+            "A": "In individuals with low blood pressure",
+            "B": "In individuals with muscle mass changes",
+            "C": "In individuals with high blood glucose",
+            "D": "In individuals with normal kidney function"
+        },
+        "correct_answer": "B",
+        "explanation": "eGFRcr may be inaccurate in certain populations, such as those with muscle mass changes.",
+        "confidence": 0.9,
+        "selected_option": "B",
+        "reasoning": "The context indicates that eGFRcr (estimated Glomerular Filtration Rate by creatinine) can be inaccurate in individuals with changes in muscle mass. This is because creatinine levels are influenced by muscle mass; thus, any significant changes can lead to misleading estimates of kidney function. The other options do not directly relate to the inaccuracies of eGFRcr as described in the context."
+    },
+    {
+        "question": "Which substance is less affected by muscle mass and may be a better marker for GFR in specific cases?",
+        "options": {
+            "A": "Creatinine",
+            "B": "Albumin",
+            "C": "Cystatin C",
+            "D": "Glucose"
+        },
+        "correct_answer": "C",
+        "explanation": "Cystatin C is less affected by muscle mass and may be a better marker in specific cases.",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context indicates that creatinine levels can be misleading due to their direct link to muscle mass, particularly in individuals with extremes of body habitus or specific conditions like spinal cord injuries and sarcopenia. In contrast, cystatin C is noted as being less affected by muscle mass and may serve as a better marker for estimating GFR in these specific cases. Therefore, cystatin C is the more appropriate choice."
+    },
+    {
+        "question": "When should a measured GFR (mGFR) be considered?",
+        "options": {
+            "A": "When the patient feels well",
+            "B": "When eGFRcr is accurate",
+            "C": "When eGFRcr-cys is inaccurate",
+            "D": "When blood pressure is normal"
+        },
+        "correct_answer": "C",
+        "explanation": "If eGFRcr-cys is inaccurate, or a more precise GFR measurement is needed, a measured GFR (mGFR) should be considered.",
+        "confidence": 1.0,
+        "selected_option": "C",
+        "reasoning": "The context clearly states that measured GFR (mGFR) is recommended when there are concerns about the accuracy of eGFRcr-cys. This indicates that mGFR should be considered specifically when eGFRcr-cys is found to be inaccurate, making option C the correct choice. The other options do not relate to the accuracy of GFR measurements."
+    },
+    {
+        "question": "Which test is advised for treatment decisions when possible?",
+        "options": {
+            "A": "eGFRcr",
+            "B": "eGFRcys",
+            "C": "mGFR",
+            "D": "Urine protein test"
+        },
+        "correct_answer": "C",
+        "explanation": "For treatment decisions, using mGFR is advised when possible.",
+        "confidence": 0.7,
+        "selected_option": "A",
+        "reasoning": "The context provided does not directly mention any specific tests for treatment decisions in the context of pneumonia or influenza. However, eGFRcr (estimated Glomerular Filtration Rate based on serum creatinine) is commonly used in clinical practice to assess kidney function, which can influence treatment decisions, especially regarding antibiotic dosing and safety. The other options (eGFRcys, mGFR, and Urine protein test) are less commonly used in routine treatment decision-making compared to eGFRcr. Therefore, eGFRcr is the most relevant test advised for treatment decisions when possible."
+    },
+    {
+        "question": "Why is it important to use validated GFR estimating equations?",
+        "options": {
+            "A": "To make the test cheaper",
+            "B": "To ensure accuracy and consistency",
+            "C": "To make the test faster",
+            "D": "To use the same test for all age groups"
+        },
+        "correct_answer": "B",
+        "explanation": "There is a need to use validated GFR estimating equations to ensure accuracy.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context emphasizes the importance of using validated GFR estimating equations to improve the accuracy of assessing true GFR and to ensure consistency across different populations. It highlights that validated equations are crucial for making informed clinical decisions, research findings, and public policy related to chronic kidney disease (CKD). Therefore, the primary reason for using validated equations is to ensure accuracy and consistency in GFR estimation."
+    },
+    {
+        "question": "What is a limitation of the Cockcroft-Gault formula for estimating creatinine clearance?",
+        "options": {
+            "A": "It is too accurate.",
+            "B": "It includes all ethnicities.",
+            "C": "It does not standardize creatinine measurements.",
+            "D": "It is recommended for all ages."
+        },
+        "correct_answer": "C",
+        "explanation": "The Cockcroft-Gault formula has limitations, including its lack of standardization of creatinine measurements.",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context mentions that the Cockcroft-Gault equation, despite its common use, has relative inaccuracies compared to other eGFR methods. It does not address the standardization of creatinine measurements, which is a known limitation of the Cockcroft-Gault formula. This lack of standardization can lead to variability in results, making it less reliable in certain populations. The other options do not accurately reflect limitations of the Cockcroft-Gault formula."
+    },
+    {
+        "question": "What should laboratories indicate when reporting eGFR?",
+        "options": {
+            "A": "The patient's blood pressure",
+            "B": "Which filtration marker was used",
+            "C": "The patient's age",
+            "D": "The patient's race"
+        },
+        "correct_answer": "B",
+        "explanation": "Laboratories should indicate which filtration marker was used to calculate eGFR.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context explicitly states that laboratory reports for computed values should indicate the filtration marker used (i.e., eGFRcr, eGFRcys, and eGFRcr-cys). This indicates that it is essential for laboratories to report which specific filtration marker was utilized in the estimation of GFR. The other options (A, C, and D) are not mentioned in the context as necessary information to be included in eGFR reports."
+    },
+    {
+        "question": "What is an important consideration when interpreting blood test results?",
+        "options": {
+            "A": "Relying on personal experience only",
+            "B": "Using lab provided reference ranges",
+            "C": "Relying on results from online sources",
+            "D": "Ignoring lab results"
+        },
+        "correct_answer": "B",
+        "explanation": "Blood test results should be interpreted using reference ranges provided by the lab.",
+        "confidence": 0.9,
+        "selected_option": "B",
+        "reasoning": "The context emphasizes the importance of understanding variability in laboratory measurements, particularly in the interpretation of eGFR and ACR. It suggests that using lab-provided reference ranges is crucial for determining the clinical significance of test results, as these ranges account for biological and analytical variability. This aligns with the need for accurate interpretation of blood test results."
+    },
+    {
+        "question": "What is the A1C reference range according to the sources?",
+        "options": {
+            "A": "2 to 40 pg/mL",
+            "B": "6 to 48 pg/mL",
+            "C": "10 to 55 pg/mL",
+            "D": "12 to 60 pg/mL"
+        },
+        "correct_answer": "B",
+        "explanation": "A1C reference ranges are 6 to 48 pg/mL",
+        "confidence": 0.0,
+        "selected_option": "None",
+        "reasoning": "None of the options provided correspond to the typical A1C reference ranges, which are usually expressed in percentages rather than pg/mL."
+    },
+    {
+        "question": "Why is the urine albumin-to-creatinine ratio (ACR) used?",
+        "options": {
+            "A": "To measure blood glucose",
+            "B": "To correct for variations in urine concentration",
+            "C": "To measure blood pressure",
+            "D": "To measure heart rate"
+        },
+        "correct_answer": "B",
+        "explanation": "Urine albumin-to-creatinine ratio (ACR) corrects for variations in urine concentration and reduces individual variability.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The urine albumin-to-creatinine ratio (ACR) is used to correct for variations in urine concentration, as it allows for the assessment of urine albumin levels while accounting for differences in urine dilution. This is highlighted in the context, which states that reporting albumin as a ratio to creatinine reduces variability and enables the use of spot samples instead of timed collections."
+    },
+    {
+        "question": "What should be considered when a patient's albuminuria doubles?",
+        "options": {
+            "A": "The patient is healthy.",
+            "B": "No further evaluation is needed.",
+            "C": "Further evaluation is warranted.",
+            "D": "Reduce fluid intake."
+        },
+        "correct_answer": "C",
+        "explanation": "Doubling in albuminuria warrants further evaluation.",
+        "confidence": 1.0,
+        "selected_option": "C",
+        "reasoning": "The context clearly states that a doubling of the albumin-to-creatinine ratio (ACR) on a subsequent test exceeds laboratory variability and warrants further evaluation. This indicates that such a change is significant and should not be ignored, as it may be associated with disease progression or other underlying issues."
+    },
+    {
+        "question": "What is a limitation of dipstick tests for urine protein or albumin?",
+        "options": {
+            "A": "They are very accurate.",
+            "B": "They are very sensitive.",
+            "C": "They have varying levels of specificity.",
+            "D": "They are not affected by urine concentration."
+        },
+        "correct_answer": "C",
+        "explanation": "Dipstick tests for urine protein or albumin have varying levels of specificity.",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "Dipstick tests for urine protein or albumin can have varying levels of specificity, which means that they may not consistently identify the presence of protein or albumin accurately across different conditions. This limitation is supported by the context, which discusses the diagnostic accuracy of urine dipstick tests and their comparison to more precise methods like 24-hour urine measurements. The other options suggest characteristics (accuracy, sensitivity, and lack of effect from urine concentration) that are not typically true for dipstick tests, as they can be less accurate and sensitive compared to more rigorous testing methods."
+    },
+    {
+        "question": "How should resting energy expenditure (REE) be measured?",
+        "options": {
+            "A": "Using predictive equations only",
+            "B": "Using indirect calorimetry",
+            "C": "Using blood glucose levels",
+            "D": "Using body weight alone"
+        },
+        "correct_answer": "B",
+        "explanation": "Resting energy expenditure (REE) should be measured using indirect calorimetry.",
+        "confidence": 0.9,
+        "selected_option": "B",
+        "reasoning": "Indirect calorimetry is considered the gold standard for measuring resting energy expenditure (REE) as it directly measures oxygen consumption and carbon dioxide production, providing an accurate assessment of metabolic rate. Predictive equations (Option A) can provide estimates but are not as precise as indirect calorimetry. Blood glucose levels (Option C) and body weight alone (Option D) do not directly measure REE and are therefore not appropriate methods for this purpose."
+    },
+    {
+        "question": "What advantage do hand-held calorimeters offer for REE measurement?",
+        "options": {
+            "A": "They are less expensive than indirect calorimeters.",
+            "B": "They are more accurate than predictive equations.",
+            "C": "They are more convenient than indirect calorimeters.",
+            "D": "They use blood glucose levels to determine REE."
+        },
+        "correct_answer": "B",
+        "explanation": "Hand-held calorimeters can measure oxygen consumption and provide more accurate REE calculations than predictive equations.",
+        "confidence": 0.8,
+        "selected_option": "C",
+        "reasoning": "Hand-held calorimeters are typically designed to be portable and user-friendly, making them more convenient for measuring resting energy expenditure (REE) compared to traditional indirect calorimeters, which may be larger and require more setup. The context emphasizes the benefits of point-of-care testing (POCT) in terms of convenience and accessibility, which aligns with the convenience aspect of hand-held calorimeters."
+    },
+    {
+        "question": "What is a factor considered when assessing evidence in studies?",
+        "options": {
+            "A": "Personal opinions of researchers",
+            "B": "Study design and risk of bias",
+            "C": "The lack of clarity of conclusions",
+            "D": "The researcher's gender"
+        },
+        "correct_answer": "B",
+        "explanation": "When assessing evidence in studies, factors like the study design, risk of bias, precision, consistency, and directness of results are taken into account.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context emphasizes the importance of study design and the risk of bias when assessing evidence in studies. It mentions the GRADE approach, which evaluates the overall quality of evidence based on factors such as methodological flaws and potential biases. This aligns directly with option B, making it the most relevant choice."
+    },
+    {
+        "question": "What is used to assess the quality of evidence?",
+        "options": {
+            "A": "Personal bias",
+            "B": "GRADE",
+            "C": "Study funding",
+            "D": "Study author credentials"
+        },
+        "correct_answer": "B",
+        "explanation": "GRADE is used to assess the quality of evidence.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context explicitly states that the GRADE approach was used to assess the overall certainty of the evidence for each critical or important outcome. This indicates that GRADE is the method employed for evaluating the quality of evidence. The other options (personal bias, study funding, and study author credentials) are not mentioned in the context as methods for assessing evidence quality."
+    },
+    {
+        "question": "Why might there be intentional vagueness in clinical recommendations?",
+        "options": {
+            "A": "To confuse the readers",
+            "B": "To make the guidelines easier to understand",
+            "C": "To emphasize patient preferences and shared decision-making",
+            "D": "To reduce the number of recommendations"
+        },
+        "correct_answer": "C",
+        "explanation": "There can be intentional vagueness in clinical recommendations, with an emphasis on patient preferences and shared decision-making.",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context indicates that there is a large role for shared decision-making and that the vagueness in clinical recommendations is intentional to allow for flexibility in considering patient preferences and individual circumstances. This aligns with the emphasis on patient-centered care and the need for clinicians to tailor their approach based on the specific needs and values of their patients."
+    },
+    {
+        "question": "When may recommendations be based on expert opinions?",
+        "options": {
+            "A": "When evidence from studies is abundant",
+            "B": "When the study is well-funded",
+            "C": "When evidence from studies is lacking",
+            "D": "When the patient is an expert"
+        },
+        "correct_answer": "C",
+        "explanation": "Some recommendations may be based on expert opinions when evidence from studies is lacking.",
+        "confidence": 1.0,
+        "selected_option": "C",
+        "reasoning": "The context states that expert opinion (E) is a separate category for recommendations in situations where there is no evidence from clinical trials, clinical trials may be impractical, or there is conflicting evidence. This directly supports option C, which indicates that recommendations may be based on expert opinions when evidence from studies is lacking."
+    },
+    {
+        "question": "What elements are important when interpreting study data?",
+        "options": {
+            "A": "Only the statistical significance",
+            "B": "Only the relative risks",
+            "C": "Confidence intervals, relative risks, and absolute effects",
+            "D": "The study authors' personal opinions"
+        },
+        "correct_answer": "C",
+        "explanation": "When interpreting study data, it is important to pay attention to confidence intervals, relative risks, and absolute effects.",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context emphasizes the importance of various statistical measures in interpreting study data, including the use of appropriate statistical tests, declaration of primary efficacy measures, and management of drop-outs. Confidence intervals, relative risks, and absolute effects are critical for understanding the magnitude and precision of the study findings, which aligns with the principles of good clinical practice and robust statistical analysis. Options A and B are too narrow, focusing only on specific aspects of data interpretation, while option D is irrelevant as personal opinions do not contribute to objective data interpretation."
+    },
+    {
+        "question": "Why might data from specific populations be extrapolated to others?",
+        "options": {
+            "A": "When it is the same ethnicity.",
+            "B": "When it is for the same age group",
+            "C": "When studies are lacking in specific populations.",
+            "D": "When there is no cost-effective way."
+        },
+        "correct_answer": "C",
+        "explanation": "The lack of studies on specific patient populations may lead to extrapolation of data to make recommendations.",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context indicates that there are trade-offs between optimal accuracy in local regions versus uniformity, and it suggests using equations developed in populations most similar to the available populations when specific studies are lacking. This aligns with option C, which states that data from specific populations might be extrapolated to others when studies are lacking in those specific populations."
+    },
+    {
+        "question": "According to one of the sources, what is a common method used to address clinical questions?",
+        "options": {
+            "A": "Personal Anecdotes",
+            "B": "PICO format",
+            "C": "Expert opinion",
+            "D": "Trial and Error"
+        },
+        "correct_answer": "B",
+        "explanation": "The sources use the Population, Intervention, Comparator, Outcome (PICO) format to frame clinical questions.",
+        "confidence": 0.9,
+        "selected_option": "B",
+        "reasoning": "The PICO format (Population, Intervention, Comparison, Outcome) is a structured approach commonly used in clinical research to formulate clinical questions and guide evidence-based practice. The context mentions the importance of making decisions based on clinical presentations and shared processes, which aligns with the systematic approach of PICO in addressing clinical questions. Other options like personal anecdotes, expert opinion, and trial and error do not represent systematic methods for addressing clinical questions as effectively as PICO does."
+    },
+    {
+        "question": "What is the purpose of a PRISMA diagram?",
+        "options": {
+            "A": "To show the study authors' credentials.",
+            "B": "To illustrate the flow of studies in a systematic review.",
+            "C": "To display patient data.",
+            "D": "To outline the methods of a clinical trial."
+        },
+        "correct_answer": "B",
+        "explanation": "A PRISMA diagram illustrates the flow of studies through the stages of a systematic review.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The PRISMA diagram is specifically designed to illustrate the flow of studies through the different phases of a systematic review, including the number of studies identified, included, and excluded. This aligns with the context provided, which discusses systematic reviews and the methods used to evaluate evidence."
+    },
+    {
+        "question": "What is the role of the GRADE approach in guideline development?",
+        "options": {
+            "A": "To provide a standard method for clinical practice guidelines.",
+            "B": "To assess the quality of evidence and strength of recommendations.",
+            "C": "To eliminate research bias.",
+            "D": "To develop new clinical trials."
+        },
+        "correct_answer": "B",
+        "explanation": "The GRADE approach is used to assess the quality of evidence and strength of recommendations in guidelines.",
+        "confidence": 0.9,
+        "selected_option": "B",
+        "reasoning": "The context explicitly mentions that the GRADE approach is used to assess the quality of evidence and strength of recommendations, which aligns directly with option B. The evidence-to-decision frameworks developed using GRADEpro software also highlight the importance of evaluating the desirable and undesirable effects of interventions, which is part of assessing the quality of evidence. Options A, C, and D do not accurately reflect the primary role of the GRADE approach as described in the context."
+    },
+    {
+        "question": "What is the aim of drug stewardship in the context of chronic kidney disease (CKD)?",
+        "options": {
+            "A": "To encourage the use of more medications.",
+            "B": "To promote the effective, safe, and sustainable use of medications.",
+            "C": "To eliminate the use of all medications in CKD patients.",
+            "D": "To rely on expert opinions only for medication use."
+        },
+        "correct_answer": "B",
+        "explanation": "Drug stewardship refers to the effective, safe, and sustainable use of medications by all staff and physicians.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context clearly defines drug stewardship as the effective, safe, and sustainable use of medications, emphasizing the importance of responsible prescribing, monitoring for efficacy and safety, and discontinuing medications when they are no longer needed. This aligns directly with option B, making it the correct choice. Options A and C contradict the principles of drug stewardship, while option D does not encompass the comprehensive approach required for medication management in CKD."
+    },
+    {
+        "question": "What is the role of patients with CKD in drug stewardship?",
+        "options": {
+            "A": "They should not be involved in medication management.",
+            "B": "They should report adverse events and inform providers about their CKD.",
+            "C": "They should manage their medications without consulting doctors.",
+            "D": "They should only follow the instructions of their pharmacist."
+        },
+        "correct_answer": "B",
+        "explanation": "People with kidney disease have a role in drug stewardship and should report adverse events and inform prescribers of their CKD.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context clearly states that people with CKD have a role in drug stewardship, which includes educating themselves about their medications, reporting adverse events, and informing healthcare providers about their kidney disease. This aligns directly with option B, which emphasizes the importance of patients reporting adverse events and informing providers about their CKD. The other options either dismiss the involvement of patients in medication management or suggest inappropriate practices."
+    },
+    {
+        "question": "What is the purpose of using standardized educational materials for CKD patients?",
+        "options": {
+            "A": "To use complicated language to confuse patients.",
+            "B": "To cover pertinent information relevant to patients\u2019 needs in different formats.",
+            "C": "To rely only on online health applications.",
+            "D": "To use medical jargons."
+        },
+        "correct_answer": "B",
+        "explanation": "Standardized educational materials for CKD should cover pertinent information, using culturally and linguistically appropriate materials in various formats.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context emphasizes the importance of creating standardized educational materials that cover pertinent information relevant to patients' needs and are available in various formats. This aligns directly with option B, which states the purpose of using standardized educational materials for CKD patients. The other options either contradict the goal of patient education or are too narrow in focus."
+    },
+    {
+        "question": "What should be considered when making clinical recommendations if a topic lacks sufficient evidence?",
+        "options": {
+            "A": "Personal beliefs should always prevail.",
+            "B": "Recommendations should be made solely based on theoretical data.",
+            "C": "Recommendations should be made based on expert opinion.",
+            "D": "Always make a conditional recommendation."
+        },
+        "correct_answer": "C",
+        "explanation": "Recommendations may be based on expert opinions when evidence from studies is lacking.",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context indicates that in situations where high-quality evidence is lacking, recommendations may still be made based on lesser evidence or expert opinion, especially when the anticipated benefits outweigh the harms. This aligns with option C, which states that recommendations should be made based on expert opinion. The other options either suggest inappropriate reliance on personal beliefs or theoretical data without practical application, or they imply a rigid approach that does not consider the nuances of clinical decision-making."
+    },
+    {
+        "question": "What is a key area needing further research in rheumatoid arthritis treatment?",
+        "options": {
+            "A": "The use of methotrexate in patients with high blood pressure",
+            "B": "The optimal dose and route of administration of methotrexate",
+            "C": "Use of only one medication at a time",
+            "D": "Using placebo instead of medication"
+        },
+        "correct_answer": "B",
+        "explanation": "The optimal dose and route of administration of methotrexate is a key area needing further research.",
+        "confidence": 0.9,
+        "selected_option": "B",
+        "reasoning": "The context discusses the development of updated guidelines for the pharmacologic management of rheumatoid arthritis, emphasizing the need for further research in various areas, including the optimal dosing and administration of DMARDs like methotrexate. This suggests that determining the best dose and route of administration is a key area needing further investigation. The other options either focus on specific patient conditions or treatment strategies that are less likely to be highlighted as needing further research in the context of the guidelines."
+    },
+    {
+        "question": "What is the main focus of the World Health Organization (WHO) guidelines on treating gonococcal infections?",
+        "options": {
+            "A": "Only preventing disease in adults.",
+            "B": "The prevention and treatment of gonococcal infections in various populations.",
+            "C": "Only treating the disease in pregnant women.",
+            "D": "Treating only men who have sex with men."
+        },
+        "correct_answer": "B",
+        "explanation": "The WHO guidelines focus on the treatment of gonococcal infections in adults, adolescents, pregnant women, and other high-risk populations.",
+        "confidence": 0.9,
+        "selected_option": "B",
+        "reasoning": "The context discusses the treatment of gonococcal infections and mentions that the guidelines apply to various populations, including pregnant women, and emphasizes the importance of monitoring and treating infections effectively. This indicates a broader focus on both prevention and treatment across different demographics rather than being limited to a specific group or aspect."
+    },
+    {
+        "question": "According to the WHO guidelines, what is essential when adapting treatment guidelines for national use?",
+        "options": {
+            "A": "Recommended treatments must be expensive.",
+            "B": "Recommended treatments should have an efficacy of at least 95%.",
+            "C": "Recommended treatments must be injectable.",
+            "D": "Recommended treatments should be available everywhere."
+        },
+        "correct_answer": "B",
+        "explanation": "In adapting the guidelines for national use, recommended treatments should have an efficacy of at least 95%.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context explicitly states that when adapting treatment guidelines for national use, \"recommended treatments should have an efficacy of at least 95%.\" This is a clear requirement outlined in the guidelines, making option B the correct choice. The other options do not align with the information provided in the context."
+    },
+    {
+        "question": "Why did the guideline for community-acquired pneumonia recommend increased testing?",
+        "options": {
+            "A": "Because of high quality evidence",
+            "B": "To reduce antibiotic use.",
+            "C": "To correct the overuse of anti-MRSA and antipseudomonal therapy.",
+            "D": "Because of better patient satisfaction with more testing."
+        },
+        "correct_answer": "C",
+        "explanation": "The increased testing was recommended to correct the overuse of anti-MRSA and anti-pseudomonal therapy.",
+        "confidence": 0.9,
+        "selected_option": "A",
+        "reasoning": "The context indicates that the guideline recommendations were based on systematic reviews of relevant research and the application of the Grading of Recommendations, Assessment, Development, and Evaluation methodology. This suggests that the recommendations for increased testing were supported by high-quality evidence derived from new therapeutic trials and epidemiological investigations. The other options do not align with the context provided, as there is no mention of reducing antibiotic use, correcting overuse of specific therapies, or patient satisfaction being a driving factor for increased testing."
+    },
+    {
+        "question": "What is the main reason for abandoning the HCAP classification in pneumonia?",
+        "options": {
+            "A": "Because the tests are too expensive.",
+            "B": "To reduce the need for testing.",
+            "C": "It led to overuse of anti-MRSA and antipseudomonal therapy.",
+            "D": "Because patients disliked the label."
+        },
+        "correct_answer": "C",
+        "explanation": "The HCAP classification was abandoned to correct the overuse of anti-MRSA and antipseudomonal therapy.",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context mentions that there is a need to abandon the HCAP classification because it led to the overuse of anti-MRSA and antipseudomonal therapy. This indicates that the classification was problematic in terms of treatment decisions, which aligns with the option stating that it caused overuse of certain therapies. The other options do not directly relate to the main reason for abandoning HCAP as indicated in the context."
+    },
+    {
+        "question": "What is the main purpose of using evidence-to-decision (EtD) frameworks in guideline development?",
+        "options": {
+            "A": "To skip the review of the literature.",
+            "B": "To show how a decision was made based on the evidence.",
+            "C": "To exclude patient preferences from recommendations.",
+            "D": "To rely only on the expertise of the guideline panel."
+        },
+        "correct_answer": "B",
+        "explanation": "EtD frameworks are used to summarize evidence and show how recommendations are made based on the evidence.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The main purpose of using evidence-to-decision (EtD) frameworks in guideline development is to systematically present the desirable and undesirable effects of interventions, the value of outcomes, costs, acceptability, equity, and feasibility, thereby showing how decisions are made based on the evidence. This aligns with the context provided, which emphasizes the importance of summarizing systematic reviews and considering various factors in decision-making."
+    },
+    {
+        "question": "What is a common comparison when evaluating treatments for venous thromboembolism (VTE)?",
+        "options": {
+            "A": "Antibiotics versus placebos",
+            "B": "LMWH versus UFH",
+            "C": "Vitamin versus a placebo",
+            "D": "Acupuncture versus massage"
+        },
+        "correct_answer": "B",
+        "explanation": "Low molecular weight heparin (LMWH) is frequently compared to unfractionated heparin (UFH) in studies of VTE prevention.",
+        "confidence": 0.9,
+        "selected_option": "B",
+        "reasoning": "The context discusses venous thromboembolism (VTE) and mentions pharmacological prophylaxis, specifically referring to low-molecular-weight heparin (LMWH) and the use of anticoagulants. Comparing LMWH to unfractionated heparin (UFH) is a common evaluation in the treatment and prevention of VTE, as both are types of anticoagulants used in clinical settings. The other options do not relate to VTE treatment comparisons."
+    },
+    {
+        "question": "What is an advantage of using LMWH compared to UFH?",
+        "options": {
+            "A": "It is cheaper",
+            "B": "It is administered more frequently",
+            "C": "Requires fewer injections",
+            "D": "It needs more monitoring"
+        },
+        "correct_answer": "C",
+        "explanation": "Once-daily LMWH requires fewer injections compared with UFH.",
+        "confidence": 0.9,
+        "selected_option": "C",
+        "reasoning": "The context indicates that LMWH (Low Molecular Weight Heparin) is associated with fewer injections compared to UFH (Unfractionated Heparin). This is a significant advantage as it improves patient compliance and comfort. The other options do not align with the context provided, as there is no mention of cost-effectiveness, frequency of administration, or increased monitoring requirements for LMWH."
+    },
+    {
+        "question": "What does the acronym DOAC stand for?",
+        "options": {
+            "A": "Directly Observed Anti-coagulation",
+            "B": "Direct Oral Anti-coagulant",
+            "C": "Dietary Oral Anti-coagulation",
+            "D": "Dose Optimal Anti-coagulation"
+        },
+        "correct_answer": "B",
+        "explanation": "DOAC stands for Direct Oral Anti-coagulant.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The acronym DOAC stands for \"Direct Oral Anti-coagulant,\" which is a well-established term in the medical field referring to a class of anticoagulant medications that are taken orally and act directly on specific targets in the coagulation pathway. The context provided discusses the use of DOACs in the management of venous thromboembolism (VTE) and their comparison with low molecular weight heparins (LMWH), further supporting that the correct definition aligns with option B. The other options do not accurately reflect the terminology used in clinical practice."
+    },
+    {
+        "question": "According to the sources, which of the following is effective for migraine prevention?",
+        "options": {
+            "A": "Lamotrigine",
+            "B": "Divalproex sodium",
+            "C": "Nicardipine",
+            "D": "Fluvoxamine"
+        },
+        "correct_answer": "B",
+        "explanation": "Divalproex sodium is effective for migraine prevention.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "According to the context, divalproex sodium is listed as an effective medication for migraine prevention under the category of antiepileptic drugs (AEDs). The other options (lamotrigine, nicardipine, and fluvoxamine) are not mentioned in the context as effective for migraine prevention."
+    },
+    {
+        "question": "According to one of the sources, what is the recommendation for lamotrigine use in migraine prevention?",
+        "options": {
+            "A": "It is effective.",
+            "B": "It is ineffective.",
+            "C": "There is not enough evidence.",
+            "D": "It can be used with other medications."
+        },
+        "correct_answer": "B",
+        "explanation": "Lamotrigine is ineffective for migraine prevention.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context clearly states that lamotrigine is ineffective for migraine prevention, as indicated by the results of multiple studies that showed it was not more effective than placebo and less effective than topiramate. This aligns with the recommendation that lamotrigine should not be used for this purpose."
+    },
+    {
+        "question": "In the context of Primary Open-Angle Glaucoma (POAG), what does the number 1 usually represent?",
+        "options": {
+            "A": "Left eye",
+            "B": "Both eyes",
+            "C": "Right eye",
+            "D": "Not applicable"
+        },
+        "correct_answer": "C",
+        "explanation": "When laterality is specified, the number 1 represents the right eye.",
+        "confidence": 0.9,
+        "selected_option": "D",
+        "reasoning": "The context provided does not specify a standard convention for the number 1 in relation to the eyes in the context of Primary Open-Angle Glaucoma (POAG). It discusses risk factors, clinical features, and treatment without indicating that the number 1 corresponds to either eye specifically. Therefore, the most appropriate choice is \"Not applicable.\""
+    },
+    {
+        "question": "What is the purpose of the systematic reviews conducted in guideline development?",
+        "options": {
+            "A": "To conduct original research",
+            "B": "To summarise all available research evidence",
+            "C": "To only consider clinical trials",
+            "D": "To write about the author's personal experience"
+        },
+        "correct_answer": "B",
+        "explanation": "Systematic reviews are conducted to comprehensively summarize all available research evidence relevant to a specific clinical question.",
+        "confidence": 1.0,
+        "selected_option": "B",
+        "reasoning": "The context clearly states that the Evidence Review Team conducts a systematic review of existing literature, extracting studies with appropriate design and outcomes. This indicates that the purpose of the systematic reviews is to summarize all available research evidence relevant to the guidelines being developed. The other options do not align with the stated purpose of the systematic reviews."
+    }
+]
